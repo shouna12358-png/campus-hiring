@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>校园招聘信息汇总</title>
+  <style>
+    :root {
+      --primary: #2563eb;
+      --primary-light: #eff6ff;
+      --success: #10b981;
+      --warning: #f59e0b;
+      --text: #1f2937;
+      --text-secondary: #6b7280;
+      --border: #e5e7eb;
+      --bg: #f3f4f6;
+      --white: #ffffff;
+      --radius: 8px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 24px 16px;
+    }
+
+    header {
+      margin-bottom: 20px;
+    }
+
+    header h1 {
+      font-size: 24px;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+
+    header .subtitle {
+      color: var(--text-secondary);
+      font-size: 14px;
+    }
+
+    .tabs {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+      background: var(--white);
+      padding: 12px;
+      border-radius: var(--radius);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .tab {
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-size: 14px;
+      cursor: pointer;
+      border: 1px solid var(--border);
+      background: var(--white);
+      color: var(--text-secondary);
+      transition: all 0.2s;
+      white-space: nowrap;
+    }
+
+    .tab:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    .tab.active {
+      background: var(--primary);
+      color: var(--white);
+      border-color: var(--primary);
+    }
+
+    .stats-bar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 16px;
+      background: var(--white);
+      padding: 12px 16px;
+      border-radius: var(--radius);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .stat {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 14px;
+      padding: 6px 12px;
+      border-radius: 20px;
+      background: var(--primary-light);
+      color: var(--primary);
+    }
+
+    .stat.yesterday { background: #ecfdf5; color: var(--success); }
+    .stat.week { background: #fffbeb; color: var(--warning); }
+
+    .filters {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-bottom: 16px;
+      background: var(--white);
+      padding: 12px;
+      border-radius: var(--radius);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+
+    .filters input, .filters select {
+      padding: 8px 12px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      font-size: 14px;
+      outline: none;
+    }
+
+    .filters input:focus, .filters select:focus {
+      border-color: var(--primary);
+    }
+
+    .filters input[type="text"] {
+      min-width: 200px;
+      flex: 1;
+    }
+
+    .table-wrap {
+      background: var(--white);
+      border-radius: var(--radius);
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      overflow: hidden;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+
+    thead {
+      background: #f9fafb;
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    th, td {
+      padding: 12px 16px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      vertical-align: top;
+    }
+
+    th {
+      font-weight: 600;
+      color: var(--text-secondary);
+      white-space: nowrap;
+    }
+
+    tbody tr:hover {
+      background: #f9fafb;
+    }
+
+    .company {
+      font-weight: 500;
+      color: var(--text);
+    }
+
+    .link {
+      color: var(--primary);
+      text-decoration: none;
+    }
+
+    .link:hover { text-decoration: underline; }
+
+    .tag {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      margin-right: 4px;
+      margin-bottom: 4px;
+    }
+
+    .tag-type { background: #dbeafe; color: #1e40af; }
+    .tag-cohort { background: #fce7f3; color: #9d174d; }
+    .tag-status { background: #f3f4f6; color: #374151; }
+
+    .positions {
+      max-width: 260px;
+      color: var(--text-secondary);
+      font-size: 13px;
+    }
+
+    .actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      padding: 4px 10px;
+      border-radius: 4px;
+      font-size: 12px;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      background: var(--white);
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      border-color: var(--primary);
+      color: var(--primary);
+    }
+
+    .loading, .error, .empty {
+      padding: 60px 20px;
+      text-align: center;
+      color: var(--text-secondary);
+    }
+
+    .error { color: #dc2626; }
+
+    .pagination {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      padding: 16px;
+      background: var(--white);
+      border-top: 1px solid var(--border);
+    }
+
+    .pagination button {
+      padding: 6px 14px;
+      border: 1px solid var(--border);
+      background: var(--white);
+      border-radius: var(--radius);
+      cursor: pointer;
+    }
+
+    .pagination button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+
+    @media (max-width: 768px) {
+      th, td { padding: 10px 12px; font-size: 13px; }
+      .positions { max-width: 160px; }
+      .hide-mobile { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>校园招聘信息汇总</h1>
+      <div class="subtitle">数据来源：每日手动更新 · 最后更新时间 <span id="updated-at">-</span></div>
+    </header>
+
+    <div class="tabs" id="tabs">
+      <div class="tab active" data-filter="all">信息总表</div>
+    </div>
+
+    <div class="stats-bar">
+      <div class="stat">总条数：<strong id="total-count">0</strong></div>
+      <div class="stat yesterday">昨日更新：<strong id="yesterday-count">+0</strong></div>
+      <div class="stat week">前七天：<strong id="week-count">0</strong></div>
+    </div>
+
+    <div class="filters">
+      <input type="text" id="search" placeholder="搜索公司 / 岗位 / 城市 / 行业...">
+      <select id="filter-type">
+        <option value="">招聘批次</option>
+      </select>
+      <select id="filter-cohort">
+        <option value="">目标届</option>
+      </select>
+      <select id="filter-company-type">
+        <option value="">企业性质</option>
+      </select>
+      <select id="filter-industry">
+        <option value="">行业</option>
+      </select>
+      <select id="filter-city">
+        <option value="">工作地点</option>
+      </select>
+    </div>
+
+    <div class="table-wrap">
+      <div id="table-area" class="loading">正在加载数据...</div>
+    </div>
+  </div>
+
+  <script>
+    const DATA_URL = './campus-hiring.json';
+    const PAGE_SIZE = 50;
+
+    let allItems = [];
+    let filteredItems = [];
+    let currentPage = 1;
+    let currentTab = 'all';
+
+    const el = id => document.getElementById(id);
+
+    async function loadData() {
+      try {
+        const res = await fetch(DATA_URL);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        allItems = data.items || [];
+        el('updated-at').textContent = data.updatedAt || '-';
+        initFilters();
+        initTabs();
+        applyFilters();
+      } catch (err) {
+        el('table-area').innerHTML = `<div class="error">数据加载失败：${err.message}<br>请确认 campus-hiring.json 已正确部署。</div>`;
+      }
+    }
+
+    function initTabs() {
+      const types = [...new Set(allItems.map(i => i.type).filter(Boolean))];
+      const cohorts = [...new Set(allItems.map(i => i.targetCohort).filter(Boolean))];
+      const tabsEl = el('tabs');
+
+      // 预设一些常用分类
+      const preset = [
+        { key: 'all', label: '信息总表' },
+        { key: '秋招', label: '秋招' },
+        { key: '校招', label: '校招' },
+        { key: '实习', label: '实习' },
+        { key: '2027届', label: '27届秋招' },
+        { key: '2026届', label: '26校招' },
+      ];
+
+      tabsEl.innerHTML = preset.map(t => {
+        const count = t.key === 'all' ? allItems.length : allItems.filter(i =>
+          i.type === t.key || i.targetCohort === t.key
+        ).length;
+        return `<div class="tab ${t.key === 'all' ? 'active' : ''}" data-filter="${t.key}">${t.label} <span style="opacity:0.7">(${count})</span></div>`;
+      }).join('');
+
+      tabsEl.querySelectorAll('.tab').forEach(tab => {
+        tab.addEventListener('click', () => {
+          tabsEl.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+          tab.classList.add('active');
+          currentTab = tab.dataset.filter;
+          currentPage = 1;
+          applyFilters();
+        });
+      });
+    }
+
+    function initFilters() {
+      const fill = (id, key) => {
+        const values = [...new Set(allItems.map(i => i[key]).filter(Boolean))].sort();
+        const select = el(id);
+        select.innerHTML = `<option value="">${select.options[0].text}</option>` +
+          values.map(v => `<option value="${v}">${v}</option>`).join('');
+        select.addEventListener('change', () => { currentPage = 1; applyFilters(); });
+      };
+
+      fill('filter-type', 'type');
+      fill('filter-cohort', 'targetCohort');
+      fill('filter-company-type', 'companyType');
+      fill('filter-industry', 'industry');
+      fill('filter-city', 'city');
+
+      el('search').addEventListener('input', () => { currentPage = 1; applyFilters(); });
+    }
+
+    function applyFilters() {
+      const search = el('search').value.trim().toLowerCase();
+      const type = el('filter-type').value;
+      const cohort = el('filter-cohort').value;
+      const companyType = el('filter-company-type').value;
+      const industry = el('filter-industry').value;
+      const city = el('filter-city').value;
+
+      filteredItems = allItems.filter(item => {
+        const matchTab = currentTab === 'all' ||
+          item.type === currentTab ||
+          item.targetCohort === currentTab;
+
+        const matchSearch = !search ||
+          (item.company && item.company.toLowerCase().includes(search)) ||
+          (item.positions && item.positions.toLowerCase().includes(search)) ||
+          (item.city && item.city.toLowerCase().includes(search)) ||
+          (item.industry && item.industry.toLowerCase().includes(search));
+
+        return matchTab && matchSearch &&
+          (!type || item.type === type) &&
+          (!cohort || item.targetCohort === cohort) &&
+          (!companyType || item.companyType === companyType) &&
+          (!industry || item.industry === industry) &&
+          (!city || (item.city && item.city.includes(city)));
+      });
+
+      updateStats();
+      renderTable();
+    }
+
+    function updateStats() {
+      el('total-count').textContent = allItems.length;
+
+      const today = new Date();
+      const yesterday = formatDate(new Date(today.getTime() - 86400000));
+      const weekAgo = formatDate(new Date(today.getTime() - 7 * 86400000));
+
+      const yesterdayCount = allItems.filter(i => i.updatedAt === yesterday).length;
+      const weekCount = allItems.filter(i => i.updatedAt >= weekAgo).length;
+
+      el('yesterday-count').textContent = `+${yesterdayCount}`;
+      el('week-count').textContent = weekCount;
+    }
+
+    function formatDate(d) {
+      return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+    }
+
+    function renderTable() {
+      if (filteredItems.length === 0) {
+        el('table-area').innerHTML = '<div class="empty">没有匹配的招聘信息</div>';
+        return;
+      }
+
+      const start = (currentPage - 1) * PAGE_SIZE;
+      const pageItems = filteredItems.slice(start, start + PAGE_SIZE);
+      const totalPages = Math.ceil(filteredItems.length / PAGE_SIZE);
+
+      const rows = pageItems.map(item => `
+        <tr>
+          <td>${item.updatedAt || '-'}</td>
+          <td><span class="tag tag-type">${item.type || '-'}</span></td>
+          <td class="company">${item.company || '-'}</td>
+          <td>${item.companyType || '-'}</td>
+          <td><span class="tag tag-status">${item.industry || '-'}</span></td>
+          <td>${item.city || '-'}</td>
+          <td class="positions">${item.positions || '-'}</td>
+          <td>${item.targetCohort ? `<span class="tag tag-cohort">${item.targetCohort}</span>` : '-'}</td>
+          <td>
+            <div class="actions">
+              ${item.announcementUrl ? `<a class="btn" href="${item.announcementUrl}" target="_blank" rel="noopener">公告</a>` : ''}
+              ${item.applyUrl ? `<a class="btn" href="${item.applyUrl}" target="_blank" rel="noopener">投递</a>` : ''}
+            </div>
+          </td>
+        </tr>
+      `).join('');
+
+      el('table-area').innerHTML = `
+        <table>
+          <thead>
+            <tr>
+              <th>更新时间</th>
+              <th>招聘批次</th>
+              <th>企业名称</th>
+              <th>企业性质</th>
+              <th>行业</th>
+              <th>工作地点</th>
+              <th>职位</th>
+              <th>目标人群</th>
+              <th>操作</th>
+            </tr>
+          </thead>
+          <tbody>${rows}</tbody>
+        </table>
+        <div class="pagination">
+          <button onclick="changePage(-1)" ${currentPage === 1 ? 'disabled' : ''}>上一页</button>
+          <span>第 ${currentPage} / ${totalPages} 页（共 ${filteredItems.length} 条）</span>
+          <button onclick="changePage(1)" ${currentPage === totalPages ? 'disabled' : ''}>下一页</button>
+        </div>
+      `;
+    }
+
+    window.changePage = delta => {
+      const totalPages = Math.ceil(filteredItems.length / PAGE_SIZE);
+      currentPage = Math.max(1, Math.min(totalPages, currentPage + delta));
+      renderTable();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    };
+
+    loadData();
+  </script>
+</body>
+</html>
