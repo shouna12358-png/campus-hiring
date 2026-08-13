@@ -75,7 +75,7 @@ if ($LASTEXITCODE -ne 0) {
 $stagedDiffExit = $LASTEXITCODE
 if ($stagedDiffExit -eq 1) {
     $date = Get-Date -Format "yyyy-MM-dd"
-    & git @gitBase commit -m "daily update $date"
+    & git @gitBase commit --only -m "daily update $date" -- "campus-hiring.json"
     if ($LASTEXITCODE -ne 0) {
         throw "git commit failed"
     }
