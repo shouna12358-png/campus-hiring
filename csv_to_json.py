@@ -61,7 +61,24 @@ def main():
     out_path = sys.argv[2] if len(sys.argv) > 2 else OUTPUT_DEFAULT
 
     items = []
-    with open(in_path, encoding="utf-8-sig", newline="") as f:
+    # 兼容 UTF-8 / GBK / GB18030 等多种 CSV 编码
+    f = None
+    for enc in ("utf-8-sig", "utf-8", "gbk", "gb2312", "gb18030"):
+        try:
+            f = open(in_path, encoding=enc, newline="")
+            # 预读一行验证编码
+            f.readline()
+            f.seek(0)
+            break
+        except (UnicodeDecodeError, UnicodeError):
+            if f:
+                f.close()
+                f = None
+            continue
+    if f is None:
+        raise ValueError(f"无法识别 {in_path} 的字符编码，请先用 Excel/记事本 另存为 UTF-8 CSV")
+
+    with f:
         reader = csv.reader(f)
         next(reader, None)  # 跳过表头
         for row in reader:
