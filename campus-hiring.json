@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-08-14T09:23:52+08:00",
-  "count": 3339,
+  "updatedAt": "2026-08-14T09:26:45+08:00",
+  "count": 3340,
   "items": [
+    {
+      "id": "320dbdcac008",
+      "company": "BIGO",
+      "updatedAt": "2026-08-13",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "targetCohort": "2027届",
+      "companyType": "私企",
+      "industry": "互联网",
+      "positions": "前端,后端,客户端,音视频SDK,传输SDK,运维开发,数据分析,测试开发,音视频,传输,图形图像,AIGC,推荐,内容风控",
+      "city": "北京,广州,佛山",
+      "announcementUrl": "https://mp.weixin.qq.com/s/fKkuOHORtksBhEp4hLKVLw",
+      "applyUrl": "https://campus.bigo.sg/",
+      "status": "待投递"
+    },
     {
       "id": "b98681f56c25",
       "company": "中汇",
