@@ -1,22 +1,7 @@
 {
-  "updatedAt": "2026-08-13T22:58:09+08:00",
-  "count": 3340,
+  "updatedAt": "2026-08-14T09:23:52+08:00",
+  "count": 3339,
   "items": [
-    {
-      "id": "320dbdcac008",
-      "company": "BIGO",
-      "updatedAt": "2026-08-13",
-      "deadline": "招满为止",
-      "type": "秋招",
-      "targetCohort": "2027届",
-      "companyType": "私企",
-      "industry": "互联网",
-      "positions": "前端,后端,客户端,音视频SDK,传输SDK,运维开发,数据分析,测试开发,音视频,传输,图形图像,AIGC,推荐,内容风控",
-      "city": "北京,广州,佛山",
-      "announcementUrl": "https://mp.weixin.qq.com/s/fKkuOHORtksBhEp4hLKVLw",
-      "applyUrl": "https://campus.bigo.sg/",
-      "status": "待投递"
-    },
     {
       "id": "b98681f56c25",
       "company": "中汇",
@@ -33,7 +18,7 @@
       "status": "待投递"
     },
     {
-      "id": "beb1f4e3dad6",
+      "id": "ff14a99cf16f",
       "company": "中科光电",
       "updatedAt": "2026-08-13",
       "deadline": "2026-08-16",
@@ -63,7 +48,7 @@
       "status": "待投递"
     },
     {
-      "id": "ea4894553c88",
+      "id": "3a9ba045ad62",
       "company": "南通文化旅游产业发展集团有限公司",
       "updatedAt": "2026-08-13",
       "deadline": "2026-08-24",
@@ -123,7 +108,7 @@
       "status": "待投递"
     },
     {
-      "id": "ddf9586fbf93",
+      "id": "3b62afd5a2f2",
       "company": "天津低空经济投资发展集团有限公司",
       "updatedAt": "2026-08-13",
       "deadline": "2026-08-26",
@@ -303,7 +288,7 @@
       "status": "待投递"
     },
     {
-      "id": "13fe37045999",
+      "id": "da4e23ef23fd",
       "company": "点点互动",
       "updatedAt": "2026-08-13",
       "deadline": "2026-11-15",
@@ -333,7 +318,7 @@
       "status": "待投递"
     },
     {
-      "id": "c92bb821956f",
+      "id": "6f22ba6d6cdf",
       "company": "绵阳市人力资源和社会保障局",
       "updatedAt": "2026-08-13",
       "deadline": "2026-08-17",
@@ -378,7 +363,7 @@
       "status": "待投递"
     },
     {
-      "id": "57936c05d433",
+      "id": "d10a82567ce9",
       "company": "邢台银行",
       "updatedAt": "2026-08-13",
       "deadline": "2026-08-14",
@@ -393,7 +378,7 @@
       "status": "待投递"
     },
     {
-      "id": "394448747cf2",
+      "id": "78100e42a989",
       "company": "鄂尔多斯市城市建设投资集团有限公司",
       "updatedAt": "2026-08-13",
       "deadline": "2026-08-25",
