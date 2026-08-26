@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:33:22+08:00",
+  "updatedAt": "2026-08-26T12:10:20+08:00",
   "count": 4106,
   "items": [
     {
@@ -1683,7 +1683,7 @@
       "openAt": "2026/8/24"
     },
     {
-      "id": "359926127450",
+      "id": "7e8b21dc3450",
       "company": "华虹集团",
       "updatedAt": "2026-08-25",
       "deadline": "招满为止",
@@ -1691,7 +1691,7 @@
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
-      "positions": "研发设计、类、工程技术类、产品品质类、智能制造类、综合职能类",
+      "positions": "研发设计类、工程技术类、产品品质类、智能制造类、综合职能类",
       "city": "无锡,上海,成都",
       "announcementUrl": "https://mp.weixin.qq.com/s/E-XaTH_Up64aymUWyjqzvA",
       "applyUrl": "https://app.mokahr.com/campus-recruitment/huahong/78009?locale=zh-CN#",
@@ -7427,12 +7427,12 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "d6b830e09a33",
+      "id": "5652155abe10",
       "company": "杰创智能",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
       "positions": "机器人应用开发工程师、前端开发工程师、嵌入式软件工程师、智能硬件开发工程师、硬件开发工程师、激光SLAM算法工程师、机器人导航算法工程师、售前技术支持工程师、技术支持工程师、数据中心运维工程师、解决方......",
@@ -7443,12 +7443,12 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "9165cabeaca9",
+      "id": "94e95f2580eb",
       "company": "欧络高新",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
       "positions": "产品工程师 工艺工程师 前期工艺分析助理 前期项目助理 前期样件制造工艺助理 采购助理 质量工程师 销售助理 计划助理 总经办助理 HR行政助理",
@@ -7459,12 +7459,12 @@
       "openAt": ""
     },
     {
-      "id": "c39533ac5901",
+      "id": "9ce7628258b1",
       "company": "因克斯智能",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/智能制造与装备",
       "positions": "Agent开发工程师 结构工程师 算法工程师 硬件工程师 嵌入式软件工程师 后端开发工程师 电机驱动软件工程师 Linux开发工程师 测试工程师 工艺工程师 项目管理 海外销售专员",
@@ -7475,12 +7475,12 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "ca6879c9a94c",
+      "id": "88da481f2d8e",
       "company": "福斯达",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/智能制造与装备",
       "positions": "技术研发类 营销项目类 生产制造类 职能支持类",
@@ -7491,12 +7491,12 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "e56c95b1c6d1",
+      "id": "f182072c23b3",
       "company": "远峰科技",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
       "positions": "嵌入式软件工程师、定位算法工程师、雷达算法工程师、产品经理 (海外)、硬件工程师、天线工程师、结构工程师、项目经理 (海外)、设备工程师、工艺工程师、采购工程师、项目质量工程师、因国际化业务发展需求而......",
@@ -7507,12 +7507,12 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "8715d1b3d6ef",
+      "id": "4de19002f874",
       "company": "中铁广州局深圳公司",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "国企",
       "industry": "房地产与建筑",
       "positions": "土建类 水工类 机电类 管理类 财会类 综合类",
@@ -7523,12 +7523,12 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "eaef3834c3db",
+      "id": "2a50c26ec7c3",
       "company": "恒安集团",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "合资",
       "industry": "品牌与消费",
       "positions": "营销管培生、生产管培生、财务管培生、市场管培生、电商管培生、质量管培生、供应链管培生",
@@ -7539,12 +7539,12 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "c0899f68124e",
+      "id": "7b854fd4bf9f",
       "company": "迈睿机器人",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/智能制造与装备",
       "positions": "机器人运动控制算法工程师、调度算法工程师、深度学习算法工程师、SLAM算法工程师、Rust开发工程师、Web前端开发工程师、Java开发工程师、C/C++软件工程师、硬件工程师、机械结构设计工程师、电......",
@@ -7555,12 +7555,12 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "26e6fbbf9c54",
+      "id": "be212e41d526",
       "company": "川土微电子",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
       "positions": "模拟IC电路设计师 版图设计工程师 应用工程师 系统工程师 产品工程师 产品定义工程师IC销售工程师 现场应用工程师 质量工程师",
@@ -7571,12 +7571,12 @@
       "openAt": ""
     },
     {
-      "id": "4a3e5b20adb1",
+      "id": "341e8a657d50",
       "company": "熙斯特",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
       "positions": "硬件开发类 软件开发类 测试类 机械结构类 产品项目类工程制程类 技术支持类",
@@ -7587,12 +7587,12 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "a3ddc3a07d45",
+      "id": "88ccf0d2c3ca",
       "company": "福斯特",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/化工与新材料",
       "positions": "研发技术类 供应链类 信息技术类 专业技术类 生产管理类 管培生",
@@ -7603,12 +7603,12 @@
       "openAt": ""
     },
     {
-      "id": "d98c7804c186",
+      "id": "99d1a7eba48a",
       "company": "倍通供应链",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "物流与供应链",
       "positions": "关务运营 国际物流运营 仓储物流 销售营销 技术 财经 人力资源",
@@ -7619,12 +7619,12 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "b831b623457c",
+      "id": "de7b9543f9cb",
       "company": "豪恩声学",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
       "positions": "声学工程师、结构工程师、电子工程师、PM、软件工程师、硬测工程师、测试方案开发工程师、NPI工程师、IE工程师、自动化工程师、TE工程师、PE工程师、PMC、SQE、DQE、采购、财务(越南)、销售",
@@ -7635,12 +7635,12 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "fa5de6397342",
+      "id": "d49dfd76dcdf",
       "company": "睿联技术",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
       "positions": "嵌入式软件开发工程师、硬件工程师、前端开发工程师、结构工程师、工业设计、产品认证工程师、硬件测试工程师、海外渠道销售、海外商务运营、跨境电商运营、数字营销、视觉设计、视频剪辑、计划专员、物流专员、现场......",
@@ -7651,12 +7651,12 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "dd83f65c024b",
+      "id": "b1fdc4f455e1",
       "company": "数字绿土",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
       "positions": "SLAM算法工程师 3DGS算法工程师 DEVOPS开发工程师 深度学习算法工程师 项目工程师 技术型销售 技术支持工程师 数据处理工程师 售后维修工程师 硬件测试工程师 采购专员",
@@ -7667,12 +7667,12 @@
       "openAt": ""
     },
     {
-      "id": "1da81feec583",
+      "id": "00b0d7641d30",
       "company": "星钥半导体",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
       "positions": "Micro LED研发工程师 外延研发工程师 制程整合工程师 良率提升工程师 基础支持工程师 工艺工程师 设备工程师",
@@ -7683,12 +7683,12 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "8504d9f970ef",
+      "id": "6b22dfcbe7e8",
       "company": "英孚机器人",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/智能制造与装备",
       "positions": "算法工程师、结构工程师、嵌入式硬件、嵌入式软件、电气、自动化、控制、机电",
@@ -7747,12 +7747,12 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "2ae81e57349c",
+      "id": "8e7da0ff4a68",
       "company": "MetaApp",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
       "positions": "游戏产品经理 Web 开发工程师 测试工程师 软件研发工程师 Android 开发工程师 ios 工程师 产品经理 游戏运营 社区运营 活动运营 新媒体运营 UGC 创作者运营 平台运营 审核专员 媒介专员 全栈开发工程师",
@@ -7763,12 +7763,12 @@
       "openAt": ""
     },
     {
-      "id": "d23653cde30b",
+      "id": "a856f93264d1",
       "company": "千岛",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
       "positions": "AI/研发类 产品类 运营类",
@@ -7779,12 +7779,12 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "4517b3637cbb",
+      "id": "332648b6d667",
       "company": "高仙机器人",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/智能制造与装备",
       "positions": "算法类 软件类 硬件类 测试类 项目类 市场类 销售类 解决方案类 售后类",
@@ -7795,12 +7795,12 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "0d8efd538ac8",
+      "id": "e78c832e61c4",
       "company": "东海半导体",
       "updatedAt": "2026-08-21",
       "deadline": "未注明",
       "type": "秋招",
-      "targetCohort": "2027届 本科及以上",
+      "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
       "positions": "微电子 集成电路 电子科学与技术 半导体材料与器件 电子信息 电气工程",
@@ -28947,12 +28947,12 @@
       "openAt": "2026/7/10"
     },
     {
-      "id": "b38674dc59dc",
+      "id": "663535b1b752",
       "company": "云帆测试研究院",
       "updatedAt": "2026-07-12",
       "deadline": "长期有效",
       "type": "秋招",
-      "targetCohort": "2026届硕士及以上",
+      "targetCohort": "2026届",
       "companyType": "事业单位",
       "industry": "高端制造与航空航天",
       "positions": "页面采集识别岗",
@@ -29011,12 +29011,12 @@
       "openAt": "2026/7/10"
     },
     {
-      "id": "88f6766cec00",
+      "id": "098a616975de",
       "company": "启明星辰实验室",
       "updatedAt": "2026-07-12",
       "deadline": "长期有效",
       "type": "校招",
-      "targetCohort": "2026届硕士及以上",
+      "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
       "positions": "内容安全策略分析师",
@@ -29059,12 +29059,12 @@
       "openAt": "2026/7/9"
     },
     {
-      "id": "5311734931c2",
+      "id": "0f2c76237b3b",
       "company": "松果智能研究院",
       "updatedAt": "2026-07-12",
       "deadline": "长期有效",
       "type": "日常实习",
-      "targetCohort": "2026届本科及以上",
+      "targetCohort": "2026届",
       "companyType": "事业单位",
       "industry": "高端制造与航空航天",
       "positions": "前端页面质量分析实习生",
@@ -29091,12 +29091,12 @@
       "openAt": "2026/7/9"
     },
     {
-      "id": "3231070caca6",
+      "id": "39555d2f1c9d",
       "company": "澜舟数字科技",
       "updatedAt": "2026-07-12",
       "deadline": "招满为止",
       "type": "秋招提前批",
-      "targetCohort": "2026届本科及以上",
+      "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
       "positions": "数据采集治理工程师",
@@ -57299,12 +57299,12 @@
       "openAt": "2026/4/28"
     },
     {
-      "id": "fa410efade24",
+      "id": "edb744b0e298",
       "company": "四川眉山天府新区",
       "updatedAt": "2026-04-29",
       "deadline": "2026-05-11",
       "type": "春招",
-      "targetCohort": "2026届,2025届,2024届,2023届,1",
+      "targetCohort": "2026届,2025届,2024届,2023届",
       "companyType": "事业单位",
       "industry": "房地产与建筑",
       "positions": "管理岗位",
