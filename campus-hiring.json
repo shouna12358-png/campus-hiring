@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T12:12:53+08:00",
+  "updatedAt": "2026-08-26T12:16:22+08:00",
   "count": 4106,
   "items": [
     {
@@ -5971,11 +5971,11 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "e7632056d055",
+      "id": "cf8e6a554a13",
       "company": "中证信息技术",
       "updatedAt": "2026-08-22",
       "deadline": "2026-10-20",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "央企",
       "industry": "信息技术/互联网与人工智能",
@@ -5987,11 +5987,11 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "e18a14918a11",
+      "id": "4ee526af1398",
       "company": "浙江火炬中心",
       "updatedAt": "2026-08-22",
       "deadline": "2026-10-20",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "事业单位",
       "industry": "咨询与专业服务",
@@ -6019,11 +6019,11 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "27e9e94e3d5d",
+      "id": "318d5ba4ab70",
       "company": "西安新东方",
       "updatedAt": "2026-08-22",
       "deadline": "2026-10-20",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "民营",
       "industry": "教育",
@@ -6051,11 +6051,11 @@
       "openAt": ""
     },
     {
-      "id": "33554c4fe074",
+      "id": "f835773fb294",
       "company": "芜湖市人才发展集团有限公司",
       "updatedAt": "2026-08-22",
       "deadline": "2026-10-20",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "国企",
       "industry": "咨询与专业服务",
@@ -6067,11 +6067,11 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "80585ff1686b",
+      "id": "9396e7ac9dad",
       "company": "炜衡贵阳律师事务所",
       "updatedAt": "2026-08-22",
       "deadline": "2026-10-20",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "民营",
       "industry": "咨询与专业服务",
@@ -6115,11 +6115,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "66c0afc2889b",
+      "id": "728e9e0a98f5",
       "company": "上海外滩艺术中心",
       "updatedAt": "2026-08-22",
       "deadline": "2026-10-20",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "央企",
       "industry": "信息技术/游戏与数字内容",
@@ -6259,11 +6259,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "5bebd1d2492a",
+      "id": "5ffb1ac9642b",
       "company": "惠州广播电视台",
       "updatedAt": "2026-08-22",
       "deadline": "2026-12-31",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "国企",
       "industry": "信息技术/游戏与数字内容",
@@ -6291,11 +6291,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "b130edb4e4c0",
+      "id": "a03ed0e16f1c",
       "company": "广州碳交中心",
       "updatedAt": "2026-08-22",
       "deadline": "2026-10-20",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "国企",
       "industry": "银行与金融",
@@ -6307,11 +6307,11 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "9d4749e2c582",
+      "id": "989c47421a02",
       "company": "国际篮联中国区",
       "updatedAt": "2026-08-22",
       "deadline": "2026-10-20",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "其他",
       "industry": "信息技术/游戏与数字内容",
@@ -7923,11 +7923,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "f0c0eea07a2f",
+      "id": "4c3984f900be",
       "company": "新能康",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "民营",
       "industry": "医药与医疗",
@@ -7955,11 +7955,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "c2c1feaed0e2",
+      "id": "bec3fe98e817",
       "company": "武汉新东方",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "民营",
       "industry": "教育",
@@ -8259,11 +8259,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "2e79c35cc243",
+      "id": "f0b36fe8b2a5",
       "company": "百度伐谋R&D Pioneer计划",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -8275,11 +8275,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "70a2771dffc5",
+      "id": "2ecefa259752",
       "company": "华发体育",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "民营",
       "industry": "品牌与消费",
@@ -8323,11 +8323,11 @@
       "openAt": ""
     },
     {
-      "id": "bb16eb605b62",
+      "id": "7f938c7ce3f4",
       "company": "巴克莱银行",
       "updatedAt": "2026-08-21",
       "deadline": "2026-09-01",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "外企",
       "industry": "银行与金融",
@@ -8355,11 +8355,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "31a1085ba64a",
+      "id": "b142a3a8202e",
       "company": "迪卡侬",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "实习生,在校生",
       "companyType": "外企",
       "industry": "品牌与消费",
@@ -18851,11 +18851,11 @@
       "openAt": "2026/7/31"
     },
     {
-      "id": "156d8820cede",
+      "id": "8729a250583e",
       "company": "合肥建投资本",
       "updatedAt": "2026-08-03",
       "deadline": "2026-08-09",
-      "type": "2027,2028届",
+      "type": "实习",
       "targetCohort": "",
       "companyType": "央企",
       "industry": "银行与金融",
@@ -29059,11 +29059,11 @@
       "openAt": "2026/7/9"
     },
     {
-      "id": "0f2c76237b3b",
+      "id": "c605ee97091e",
       "company": "松果智能研究院",
       "updatedAt": "2026-07-12",
       "deadline": "长期有效",
-      "type": "日常实习",
+      "type": "实习",
       "targetCohort": "2026届",
       "companyType": "事业单位",
       "industry": "高端制造与航空航天",
