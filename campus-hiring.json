@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-26T22:24:32+08:00",
-  "count": 4253,
+  "updatedAt": "2026-08-26T22:37:58+08:00",
+  "count": 4252,
   "items": [
     {
       "id": "5eaf2d1e5357",
@@ -913,22 +913,6 @@
       "applyUrl": "https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/positionDetail",
       "status": "待投递",
       "openAt": "2026/8/21"
-    },
-    {
-      "id": "9b383a8d8eaf",
-      "company": "宁波市海欣控股集团有限公司",
-      "updatedAt": "2026-08-26",
-      "deadline": "招满为止",
-      "type": "26秋招",
-      "targetCohort": "",
-      "companyType": "国企",
-      "industry": "房地产与建筑",
-      "positions": "运营、财务管理、前期管理会计、会计学、工程财务与造价管理",
-      "city": "宁波",
-      "announcementUrl": "",
-      "applyUrl": "https://bm.nbks.cn",
-      "status": "待投递",
-      "openAt": "2026/8/28"
     },
     {
       "id": "048879353c5c",
