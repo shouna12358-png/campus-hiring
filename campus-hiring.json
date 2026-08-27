@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T22:37:58+08:00",
+  "updatedAt": "2026-08-27T19:53:43+08:00",
   "count": 4252,
   "items": [
     {
@@ -1219,11 +1219,11 @@
       "openAt": "2026/5/22"
     },
     {
-      "id": "196c10634d14",
+      "id": "3587ea1cad9a",
       "company": "江西省茶业集团有限公司",
       "updatedAt": "2026-08-26",
       "deadline": "招满为止",
-      "type": "26秋招",
+      "type": "秋招",
       "targetCohort": "",
       "companyType": "民营",
       "industry": "信息技术/电商与数字零售",
@@ -1443,11 +1443,11 @@
       "openAt": "2026/8/21"
     },
     {
-      "id": "4f325b14f909",
+      "id": "d10b35f1a811",
       "company": "湖北省投资引导基金有限公司",
       "updatedAt": "2026-08-26",
       "deadline": "招满为止",
-      "type": "26秋招",
+      "type": "秋招",
       "targetCohort": "",
       "companyType": "国企",
       "industry": "银行与金融",
@@ -1459,11 +1459,11 @@
       "openAt": ""
     },
     {
-      "id": "efce2356ca97",
+      "id": "1d1a7d77d8a2",
       "company": "滁州市轨道交通运营有限公司",
       "updatedAt": "2026-08-26",
       "deadline": "招满为止",
-      "type": "26秋招",
+      "type": "秋招",
       "targetCohort": "",
       "companyType": "央企",
       "industry": "物流与供应链",
@@ -2883,11 +2883,11 @@
       "openAt": "2026/8/21"
     },
     {
-      "id": "b268d667ef67",
+      "id": "0bff0923d498",
       "company": "安徽国控集团",
       "updatedAt": "2026-08-26",
       "deadline": "2026.09.04",
-      "type": "公开招聘",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "国企",
       "industry": "银行与金融",
@@ -2995,11 +2995,11 @@
       "openAt": "2026/8/24"
     },
     {
-      "id": "366f59dab6b8",
+      "id": "94b890db43d4",
       "company": "沈汽华制(沈阳)汽车产业服务有限公司",
       "updatedAt": "2026-08-26",
       "deadline": "2026.08.30",
-      "type": "公开招聘",
+      "type": "春招",
       "targetCohort": "2025届,2026届,2027届",
       "companyType": "国企",
       "industry": "制造业/汽车与新能源",
@@ -3011,11 +3011,11 @@
       "openAt": ""
     },
     {
-      "id": "c6e88a4c6688",
+      "id": "158b29aae76d",
       "company": "中证股转科技有限公司",
       "updatedAt": "2026-08-26",
       "deadline": "2026.09.29",
-      "type": "公开招聘",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "国企",
       "industry": "银行与金融",
@@ -3027,11 +3027,11 @@
       "openAt": "2026/8/21"
     },
     {
-      "id": "eece9d072a88",
+      "id": "33f694eea4a6",
       "company": "全国中小企业股份转让系统有限责任公司",
       "updatedAt": "2026-08-26",
       "deadline": "2026.09.29",
-      "type": "公开招聘",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "国企",
       "industry": "银行与金融",
@@ -3107,11 +3107,11 @@
       "openAt": "2026/8/22"
     },
     {
-      "id": "998374a36e4f",
+      "id": "e5e32a2482ce",
       "company": "中国东方资产管理股份有限公司",
       "updatedAt": "2026-08-26",
       "deadline": "2026.09.17",
-      "type": "公开招聘",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "银行与金融",
@@ -4227,11 +4227,11 @@
       "openAt": "2026/8/24"
     },
     {
-      "id": "2ea36dc91e1a",
+      "id": "ebd83daa7e6a",
       "company": "TP-LINK",
       "updatedAt": "2026-08-25",
       "deadline": "尽快投递 投递官网 ↗ + 进展表",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "通信与运营商",
@@ -4307,11 +4307,11 @@
       "openAt": "2026/8/23"
     },
     {
-      "id": "ac68c69b8fb5",
+      "id": "6063e20f173d",
       "company": "华为研发工程、IT装备与安全技术院",
       "updatedAt": "2026-08-25",
       "deadline": "尽快投递 投递官网 ↗ + 进展表",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -4339,11 +4339,11 @@
       "openAt": "2026/8/24"
     },
     {
-      "id": "6b7918d8c682",
+      "id": "87af04fba001",
       "company": "华为媒体与体验技术研究院",
       "updatedAt": "2026-08-25",
       "deadline": "尽快投递 投递官网 ↗ + 进展表",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -4355,11 +4355,11 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "94e4255f650b",
+      "id": "643fce21d493",
       "company": "福建国资管理",
       "updatedAt": "2026-08-25",
       "deadline": "尽快投递 投递官网 ↗ + 进展表",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2026届",
       "companyType": "国企",
       "industry": "银行与金融",
@@ -4387,11 +4387,11 @@
       "openAt": "2026/8/21"
     },
     {
-      "id": "6eacec241ee6",
+      "id": "5ba0a84c3e45",
       "company": "华为AI软件院",
       "updatedAt": "2026-08-25",
       "deadline": "尽快投递 投递官网 ↗ + 进展表",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -6419,11 +6419,11 @@
       "openAt": "2026/8/21"
     },
     {
-      "id": "eb2083fd792c",
+      "id": "a7bb5c4b6838",
       "company": "万有引力",
       "updatedAt": "2026-08-23",
       "deadline": "招满为止",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -7987,11 +7987,11 @@
       "openAt": "2026/8/21"
     },
     {
-      "id": "0100beb00092",
+      "id": "19382851c279",
       "company": "MetaApp",
       "updatedAt": "2026-08-22",
       "deadline": "招满为止",
-      "type": "秋招，实习",
+      "type": "秋招,实习",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -8931,11 +8931,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "62578eb913c4",
+      "id": "c2d3263e8af6",
       "company": "箸境智能",
       "updatedAt": "2026-08-22",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -9011,11 +9011,11 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "5f9b0983dd42",
+      "id": "f6432f98dc0d",
       "company": "微博",
       "updatedAt": "2026-08-22",
       "deadline": "2026-09-18",
-      "type": "专岗",
+      "type": "春招",
       "targetCohort": "未注明",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -9024,7 +9024,7 @@
       "announcementUrl": "https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?project0=100128287&project1=100120369&page=1&anchorName=jobsList",
       "applyUrl": "https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?project0=100128287&project1=100120369&page=1&anchorName=jobsList",
       "status": "待投递",
-      "openAt": ""
+      "openAt": "2026/8/19"
     },
     {
       "id": "f835773fb294",
@@ -9075,11 +9075,11 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "e9fa142a30d8",
+      "id": "d5ca32c9ed11",
       "company": "腾讯职能线",
       "updatedAt": "2026-08-22",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -9219,11 +9219,11 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "95bb2b11c4f6",
+      "id": "045aebda2938",
       "company": "宽德投资信息技术部",
       "updatedAt": "2026-08-22",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -9251,11 +9251,11 @@
       "openAt": "2026/8/20"
     },
     {
-      "id": "d1bef6e7b7a1",
+      "id": "c7490308b3ff",
       "company": "环球趣学",
       "updatedAt": "2026-08-22",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "未注明",
       "companyType": "民营",
       "industry": "教育",
@@ -10339,11 +10339,11 @@
       "openAt": "2026/8/14"
     },
     {
-      "id": "e038277bd2c1",
+      "id": "77f761479685",
       "company": "欧络伊红",
       "updatedAt": "2026-08-21",
       "deadline": "2026-10-19",
-      "type": "公开招聘",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "合资",
       "industry": "制造业/汽车与新能源",
@@ -10483,11 +10483,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "e98c1371f74d",
+      "id": "c5d7a1804ddc",
       "company": "长春永固科技有限公司",
       "updatedAt": "2026-08-21",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -10595,11 +10595,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "159ce6effc26",
+      "id": "4ad04ff5240f",
       "company": "新东方",
       "updatedAt": "2026-08-21",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "教育",
@@ -10627,11 +10627,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "ef223d5fa961",
+      "id": "368ed3b2cc6a",
       "company": "天津创业环保集团",
       "updatedAt": "2026-08-21",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "未注明",
       "companyType": "国企",
       "industry": "能源与资源",
@@ -10659,11 +10659,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "853f2e5290af",
+      "id": "139f1c731c90",
       "company": "深圳市国微电子有限公司",
       "updatedAt": "2026-08-21",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -10691,11 +10691,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "c8b94dec2855",
+      "id": "3ccba887d49e",
       "company": "平安银行深圳分行",
       "updatedAt": "2026-08-21",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -10707,11 +10707,11 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "2990196de31d",
+      "id": "3d661b6e0843",
       "company": "平安银行武汉分行",
       "updatedAt": "2026-08-21",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -10723,11 +10723,11 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "0fdc41986cfd",
+      "id": "11e7c87aefdf",
       "company": "平安银行青岛分行",
       "updatedAt": "2026-08-21",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -10739,11 +10739,11 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "fa1c9b0ff0c1",
+      "id": "6db9aedfa99f",
       "company": "平安银行南宁分行",
       "updatedAt": "2026-08-21",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -10883,11 +10883,11 @@
       "openAt": "2026/8/19"
     },
     {
-      "id": "565aabe1ad03",
+      "id": "72fae0087fbd",
       "company": "大普微电子",
       "updatedAt": "2026-08-21",
       "deadline": "2027-06-30",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -12131,11 +12131,11 @@
       "openAt": "2026/8/13"
     },
     {
-      "id": "544f92658d74",
+      "id": "6226b6860f17",
       "company": "沃尔玛",
       "updatedAt": "2026-08-20",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "外企",
       "industry": "品牌与消费",
@@ -12147,11 +12147,11 @@
       "openAt": "2026/8/18"
     },
     {
-      "id": "522cb4f71386",
+      "id": "f93a3405ea13",
       "company": "平安银行石家庄分行",
       "updatedAt": "2026-08-20",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -12163,11 +12163,11 @@
       "openAt": "2026/8/17"
     },
     {
-      "id": "3f96e9e16d24",
+      "id": "bf928f4f7a3c",
       "company": "平安银行佛山分行",
       "updatedAt": "2026-08-20",
       "deadline": "尽快投递",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -22995,11 +22995,11 @@
       "openAt": "2026/7/29"
     },
     {
-      "id": "6e332392c978",
+      "id": "102bb31c24e5",
       "company": "广州新东方",
       "updatedAt": "2026-07-30",
       "deadline": "招满为止",
-      "type": "秋招提前批，实习",
+      "type": "秋招提前批,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "教育",
@@ -27459,11 +27459,11 @@
       "openAt": "2026/7/20"
     },
     {
-      "id": "f3b9a3a6826b",
+      "id": "ff64fcb69a91",
       "company": "多谱多勒",
       "updatedAt": "2026-07-21",
       "deadline": "招满为止",
-      "type": "秋招，实习",
+      "type": "秋招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "能源与资源",
@@ -27859,11 +27859,11 @@
       "openAt": "2026/7/17"
     },
     {
-      "id": "8830d50f6133",
+      "id": "8aaafe1dbfae",
       "company": "中铁二院",
       "updatedAt": "2026-07-20",
       "deadline": "招满为止",
-      "type": "实习，秋招",
+      "type": "秋招,实习",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "能源与资源",
@@ -28787,11 +28787,11 @@
       "openAt": "2026/7/15"
     },
     {
-      "id": "53b751aad13c",
+      "id": "5ec6ac63bf49",
       "company": "南京欢乐谷",
       "updatedAt": "2026-07-19",
       "deadline": "招满为止",
-      "type": "实习，秋招",
+      "type": "秋招,实习",
       "targetCohort": "2026届,2027届,2028届,2029届",
       "companyType": "民营",
       "industry": "旅游与出行",
@@ -31427,11 +31427,11 @@
       "openAt": "2026/7/10"
     },
     {
-      "id": "098a616975de",
+      "id": "6249e1cc4b98",
       "company": "启明星辰实验室",
       "updatedAt": "2026-07-12",
       "deadline": "长期有效",
-      "type": "校招",
+      "type": "春招",
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -31939,11 +31939,11 @@
       "openAt": ""
     },
     {
-      "id": "97a0a88c01dd",
+      "id": "8264410474af",
       "company": "恒越基金管理有限公司",
       "updatedAt": "2026-07-10",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届,2028届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -33379,11 +33379,11 @@
       "openAt": "2026/7/3"
     },
     {
-      "id": "72832035c5c5",
+      "id": "e15c2ed6e20c",
       "company": "FunPlus",
       "updatedAt": "2026-07-04",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "外企",
       "industry": "信息技术/互联网与人工智能",
@@ -33443,11 +33443,11 @@
       "openAt": ""
     },
     {
-      "id": "3ac42863010a",
+      "id": "68b333c2828a",
       "company": "中国化学赛鼎公司",
       "updatedAt": "2026-07-04",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2025届,2027届",
       "companyType": "央企",
       "industry": "房地产与建筑",
@@ -36611,11 +36611,11 @@
       "openAt": ""
     },
     {
-      "id": "8328e5085730",
+      "id": "5758471451ef",
       "company": "联合飞机集团",
       "updatedAt": "2026-06-26",
       "deadline": "招满为止",
-      "type": "春招补录/秋招提前批",
+      "type": "春招,秋招提前批",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -38659,11 +38659,11 @@
       "openAt": "2026/6/17"
     },
     {
-      "id": "2ec5f3abf5f4",
+      "id": "a75ab4662fc4",
       "company": "利得基金",
       "updatedAt": "2026-06-19",
       "deadline": "招满为止",
-      "type": "秋招提前批，实习",
+      "type": "秋招提前批,实习",
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -39123,11 +39123,11 @@
       "openAt": "2026/6/17"
     },
     {
-      "id": "9624406e0105",
+      "id": "0d358be2a337",
       "company": "中国电信人工智能研究院",
       "updatedAt": "2026-06-18",
       "deadline": "招满为止",
-      "type": "秋招提前批，实习",
+      "type": "秋招提前批,实习",
       "targetCohort": "2027届",
       "companyType": "事业单位",
       "industry": "通信与运营商",
@@ -39427,11 +39427,11 @@
       "openAt": "2026/6/9"
     },
     {
-      "id": "9eb2afde7506",
+      "id": "38f261b31c70",
       "company": "小黄人科技",
       "updatedAt": "2026-06-18",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -40531,11 +40531,11 @@
       "openAt": ""
     },
     {
-      "id": "9ac6f5f23947",
+      "id": "0de53d530ceb",
       "company": "卧安机器人",
       "updatedAt": "2026-06-15",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "制造业/智能制造与装备",
@@ -43939,11 +43939,11 @@
       "openAt": "2026/6/5"
     },
     {
-      "id": "816a1e9e98f8",
+      "id": "0f63367a71e1",
       "company": "雅培",
       "updatedAt": "2026-06-07",
       "deadline": "招满为止",
-      "type": "春招，秋招提前批",
+      "type": "春招,秋招提前批",
       "targetCohort": "2025届,2026届,2027届",
       "companyType": "民营",
       "industry": "医药与医疗",
@@ -45475,11 +45475,11 @@
       "openAt": "2026/6/1"
     },
     {
-      "id": "9e42e276955d",
+      "id": "9354d9a03eee",
       "company": "九坤投资",
       "updatedAt": "2026-06-02",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -46515,11 +46515,11 @@
       "openAt": "2026/5/29"
     },
     {
-      "id": "1fb943e8615a",
+      "id": "b89fd0aeaf76",
       "company": "同花顺",
       "updatedAt": "2026-05-31",
       "deadline": "招满为止",
-      "type": "春招补录/秋招提前批",
+      "type": "春招,秋招提前批",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -48579,11 +48579,11 @@
       "openAt": "2026/5/26"
     },
     {
-      "id": "e5b65a0ff453",
+      "id": "4b10339d47db",
       "company": "雀巢中国",
       "updatedAt": "2026-05-27",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届",
       "companyType": "外企",
       "industry": "品牌与消费",
@@ -49411,11 +49411,11 @@
       "openAt": "2026/5/22"
     },
     {
-      "id": "bc1322be7136",
+      "id": "766f07a905e9",
       "company": "新东方大学事业部",
       "updatedAt": "2026-05-25",
       "deadline": "招满为止",
-      "type": "实习，春招补录",
+      "type": "春招补录,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "事业单位",
       "industry": "教育",
@@ -51891,11 +51891,11 @@
       "openAt": "2026/5/19"
     },
     {
-      "id": "cbed095f0392",
+      "id": "93a013a65138",
       "company": "鹏扬基金",
       "updatedAt": "2026-05-20",
       "deadline": "招满为止",
-      "type": "春招补录，秋招",
+      "type": "春招补录,秋招",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -52163,11 +52163,11 @@
       "openAt": "2026/5/18"
     },
     {
-      "id": "4613f95402d7",
+      "id": "467d55087121",
       "company": "海成科技",
       "updatedAt": "2026-05-19",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -52899,11 +52899,11 @@
       "openAt": "2026/5/14"
     },
     {
-      "id": "4d42066578b4",
+      "id": "6aa50ba6f98b",
       "company": "腾娱云梦J3",
       "updatedAt": "2026-05-17",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -53603,11 +53603,11 @@
       "openAt": "2026/5/13"
     },
     {
-      "id": "999717580a19",
+      "id": "8fb408533d1e",
       "company": "半鞅私募基金",
       "updatedAt": "2026-05-15",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -53795,11 +53795,11 @@
       "openAt": "2026/5/15"
     },
     {
-      "id": "bff4a9c919d7",
+      "id": "813514b467b3",
       "company": "必凡娱乐",
       "updatedAt": "2026-05-15",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -54355,11 +54355,11 @@
       "openAt": "2026/5/14"
     },
     {
-      "id": "b9d49fcb3913",
+      "id": "2bd4cd73b00b",
       "company": "汉缆股份",
       "updatedAt": "2026-05-14",
       "deadline": "招满为止",
-      "type": "春招补录/秋招提前批",
+      "type": "春招,秋招提前批",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "能源与资源",
@@ -54387,11 +54387,11 @@
       "openAt": "2026/5/13"
     },
     {
-      "id": "bf0656b0f222",
+      "id": "ca15b164b3e9",
       "company": "深蓝资本",
       "updatedAt": "2026-05-14",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -57539,11 +57539,11 @@
       "openAt": "2026/5/6"
     },
     {
-      "id": "364cea6ef23c",
+      "id": "6a814df1d7cf",
       "company": "德塔智能",
       "updatedAt": "2026-05-07",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "制造业/智能制造与装备",
@@ -57859,11 +57859,11 @@
       "openAt": "2026/4/30"
     },
     {
-      "id": "609b69dda559",
+      "id": "41340f991ea2",
       "company": "叠纸游戏",
       "updatedAt": "2026-05-06",
       "deadline": "2026-05-31",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -57923,11 +57923,11 @@
       "openAt": "2026/4/29"
     },
     {
-      "id": "6937f5740c7c",
+      "id": "f5740a221ed3",
       "company": "新能德",
       "updatedAt": "2026-05-06",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2027届,2026届",
       "companyType": "民营",
       "industry": "能源与资源",
@@ -58067,11 +58067,11 @@
       "openAt": "2026/5/3"
     },
     {
-      "id": "8ce933f2e09f",
+      "id": "4a39dc9cfcb1",
       "company": "硅芯科技",
       "updatedAt": "2026-05-04",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -58083,11 +58083,11 @@
       "openAt": "2026/4/28"
     },
     {
-      "id": "73bcd338a324",
+      "id": "23e93f40604a",
       "company": "东海基金",
       "updatedAt": "2026-05-03",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -58691,11 +58691,11 @@
       "openAt": "2026/4/30"
     },
     {
-      "id": "baaf9173f0a9",
+      "id": "d9342183ce68",
       "company": "完美世界",
       "updatedAt": "2026-05-01",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -58739,11 +58739,11 @@
       "openAt": "2026/4/30"
     },
     {
-      "id": "84f274b1a928",
+      "id": "8db6730d15b1",
       "company": "快手-急招岗位",
       "updatedAt": "2026-05-01",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -59219,11 +59219,11 @@
       "openAt": "2026/4/28"
     },
     {
-      "id": "6f177c52ed27",
+      "id": "4cc6504152ba",
       "company": "拼多多-急招！",
       "updatedAt": "2026-04-30",
       "deadline": "2026-06-14",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2025届,2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -59955,11 +59955,11 @@
       "openAt": "2026/4/28"
     },
     {
-      "id": "9a1824018c89",
+      "id": "2a2eea93a895",
       "company": "腾讯元宝",
       "updatedAt": "2026-04-29",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -60099,11 +60099,11 @@
       "openAt": "2026/4/28"
     },
     {
-      "id": "628a61c167b6",
+      "id": "3c38ce18c26d",
       "company": "先飞智慧物流",
       "updatedAt": "2026-04-28",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "物流与供应链",
@@ -60291,11 +60291,11 @@
       "openAt": "2026/4/25"
     },
     {
-      "id": "eea86187bfc0",
+      "id": "ca3686b6ca0c",
       "company": "微众银行",
       "updatedAt": "2026-04-28",
       "deadline": "2026-06-30",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -60611,11 +60611,11 @@
       "openAt": "2026/4/23"
     },
     {
-      "id": "f1581dfdd5e0",
+      "id": "bfb60caf7a58",
       "company": "中国化学工程五环公司",
       "updatedAt": "2026-04-27",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "央企",
       "industry": "房地产与建筑",
@@ -60755,11 +60755,11 @@
       "openAt": "2026/4/24"
     },
     {
-      "id": "2fb35b9bd951",
+      "id": "6f3e71142f8f",
       "company": "博时基金",
       "updatedAt": "2026-04-27",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -61203,11 +61203,11 @@
       "openAt": ""
     },
     {
-      "id": "e3225969ff2c",
+      "id": "867240d69d94",
       "company": "德力西电气",
       "updatedAt": "2026-04-26",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -61475,11 +61475,11 @@
       "openAt": "2026/4/23"
     },
     {
-      "id": "087d83b1f45c",
+      "id": "d60b8d1861d0",
       "company": "海康威视",
       "updatedAt": "2026-04-26",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "央企",
       "industry": "信息技术/互联网与人工智能",
@@ -61539,11 +61539,11 @@
       "openAt": "2026/4/23"
     },
     {
-      "id": "5cc6512ddc43",
+      "id": "5d636fb529f0",
       "company": "舜云工程",
       "updatedAt": "2026-04-26",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -62419,11 +62419,11 @@
       "openAt": "2026/4/21"
     },
     {
-      "id": "3d1e61432640",
+      "id": "c51503a0ecfe",
       "company": "天孚通信",
       "updatedAt": "2026-04-24",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "通信与运营商",
@@ -62691,11 +62691,11 @@
       "openAt": "2026/4/22"
     },
     {
-      "id": "54d97f7936f8",
+      "id": "451be9496bad",
       "company": "长发小寨",
       "updatedAt": "2026-04-24",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "品牌与消费",
@@ -62707,11 +62707,11 @@
       "openAt": "2026/4/22"
     },
     {
-      "id": "15828635a53a",
+      "id": "0698ab373990",
       "company": "长沙银行",
       "updatedAt": "2026-04-24",
       "deadline": "2026-05-31",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,部分往届,2027届",
       "companyType": "央企",
       "industry": "银行与金融",
@@ -62835,11 +62835,11 @@
       "openAt": "2026/4/22"
     },
     {
-      "id": "96a6481d38eb",
+      "id": "1b82ac88f2d4",
       "company": "上海人工智能实验室",
       "updatedAt": "2026-04-23",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -63075,11 +63075,11 @@
       "openAt": "2026/4/21"
     },
     {
-      "id": "e980b9ab32b0",
+      "id": "50a108f0a0f3",
       "company": "新疆维药",
       "updatedAt": "2026-04-23",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "医药与医疗",
@@ -63811,11 +63811,11 @@
       "openAt": ""
     },
     {
-      "id": "8a25b30d0360",
+      "id": "ea9ac83167a1",
       "company": "鼎捷数智",
       "updatedAt": "2026-04-22",
       "deadline": "招满为止",
-      "type": "春招，秋招提前批",
+      "type": "春招,秋招提前批",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -64659,11 +64659,11 @@
       "openAt": "2026/4/17"
     },
     {
-      "id": "476558194068",
+      "id": "7f02dc23876e",
       "company": "珀莱雅",
       "updatedAt": "2026-04-20",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "品牌与消费",
@@ -65875,11 +65875,11 @@
       "openAt": ""
     },
     {
-      "id": "e87ada6f11fd",
+      "id": "bd40f73d545d",
       "company": "字节跳动",
       "updatedAt": "2026-04-17",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -66051,11 +66051,11 @@
       "openAt": "2026/4/13"
     },
     {
-      "id": "a0329f35306e",
+      "id": "d5c41b169841",
       "company": "腾讯IEG",
       "updatedAt": "2026-04-17",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -66067,11 +66067,11 @@
       "openAt": "2026/4/15"
     },
     {
-      "id": "e4defb5c8202",
+      "id": "9563fc250944",
       "company": "致欧家居",
       "updatedAt": "2026-04-17",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "物流与供应链",
@@ -66083,11 +66083,11 @@
       "openAt": "2026/4/16"
     },
     {
-      "id": "2767b77ffe85",
+      "id": "ece29b0cdef9",
       "company": "西门子",
       "updatedAt": "2026-04-17",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "外企",
       "industry": "制造业/电子半导体",
@@ -66099,11 +66099,11 @@
       "openAt": "2026/4/16"
     },
     {
-      "id": "a4d628958d57",
+      "id": "e7bf4f66ff28",
       "company": "阅星曈",
       "updatedAt": "2026-04-17",
       "deadline": "2026-05-31",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "物流与供应链",
@@ -66195,11 +66195,11 @@
       "openAt": "2026/4/14"
     },
     {
-      "id": "ca5f170a1874",
+      "id": "2353104585da",
       "company": "兴耀房产集团",
       "updatedAt": "2026-04-16",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -66211,11 +66211,11 @@
       "openAt": ""
     },
     {
-      "id": "bf4be74c8747",
+      "id": "e2ccc1474f74",
       "company": "创金合信基金",
       "updatedAt": "2026-04-16",
       "deadline": "2026-04-30",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -66611,11 +66611,11 @@
       "openAt": "2026/4/16"
     },
     {
-      "id": "2f52eae3f242",
+      "id": "b73c0276e13c",
       "company": "祖龙娱乐",
       "updatedAt": "2026-04-16",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -66675,11 +66675,11 @@
       "openAt": "2026/4/15"
     },
     {
-      "id": "0da117a56c95",
+      "id": "e482fac47c8b",
       "company": "行云集成电路",
       "updatedAt": "2026-04-16",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -66835,11 +66835,11 @@
       "openAt": "2026/4/14"
     },
     {
-      "id": "b0de895d8cc9",
+      "id": "bc6e50ace085",
       "company": "兴艺凯晨",
       "updatedAt": "2026-04-15",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -66947,11 +66947,11 @@
       "openAt": "2026/4/14"
     },
     {
-      "id": "d13b2b8bcf6d",
+      "id": "6b87c5c29fca",
       "company": "图迹科技",
       "updatedAt": "2026-04-15",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -67651,11 +67651,11 @@
       "openAt": "2026/4/13"
     },
     {
-      "id": "19da27e3cba8",
+      "id": "bd02131addb2",
       "company": "小米集团",
       "updatedAt": "2026-04-14",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -67667,11 +67667,11 @@
       "openAt": "2026/4/10"
     },
     {
-      "id": "be716d9ca774",
+      "id": "cdd94928da01",
       "company": "帕科科技",
       "updatedAt": "2026-04-14",
       "deadline": "招满为止",
-      "type": "实习,春招",
+      "type": "春招,实习",
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -67955,11 +67955,11 @@
       "openAt": "2026/4/13"
     },
     {
-      "id": "2827bb97c038",
+      "id": "c5f99f79567f",
       "company": "FunPlus",
       "updatedAt": "2026-04-13",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "外企",
       "industry": "信息技术/游戏与数字内容",
@@ -67987,11 +67987,11 @@
       "openAt": "2026/4/9"
     },
     {
-      "id": "a8686d25f632",
+      "id": "e69c477fc2b8",
       "company": "SHEER夏尔",
       "updatedAt": "2026-04-13",
       "deadline": "招满为止",
-      "type": "春招，实习",
+      "type": "春招,实习",
       "targetCohort": "2026届,2027届",
       "companyType": "外企",
       "industry": "信息技术/游戏与数字内容",
