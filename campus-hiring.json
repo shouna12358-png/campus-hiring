@@ -1,7 +1,1833 @@
 {
-  "updatedAt": "2026-08-28T00:17:26+08:00",
-  "count": 4436,
+  "updatedAt": "2026-08-28T22:07:09+08:00",
+  "count": 4524,
   "items": [
+    {
+      "id": "8a7cdc8ab97f",
+      "company": "上海迪士尼度假区",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-09-10",
+      "type": "实习",
+      "typeTags": [
+        "实习"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2028届",
+      "companyType": "民营",
+      "industry": "旅游与出行",
+      "positions": "运营类实习生项目",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/OgeO5SUnwcN_2uCRFuMnbQ",
+      "applyUrl": "https://www.moseeker.com/positions/index/cid/3",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "b9dc7b7485ab",
+      "company": "中兴通讯南京智能制造基地",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "实习",
+      "typeTags": [
+        "实习"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "通信与运营商",
+      "positions": "测试技术",
+      "city": "南京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/YFzsBEnvGgwt59r3NnL3JA",
+      "applyUrl": "https://app.mokahr.com/m/campus-recruitment/ztehr4/150449",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "868f1de5a0b7",
+      "company": "中国国家地理科考旅行部",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "实习",
+      "typeTags": [
+        "实习"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2028届",
+      "companyType": "民营",
+      "industry": "信息技术/游戏与数字内容",
+      "positions": "游轮项目助理（线上",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/bSV9djAKVz9jucdnvKsWwQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/bSV9djAKVz9jucdnvKsWwQ",
+      "status": "待投递",
+      "openAt": "2026/8/25"
+    },
+    {
+      "id": "9ee3cb626c76",
+      "company": "中国航发南京航空动力",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "国企",
+      "industry": "制造业/汽车与新能源",
+      "positions": "机械设计制造及其自动化",
+      "city": "南京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/riTQjcdgyVDa9fveGC-OoA",
+      "applyUrl": "https://aecc2026.zhaopin.com",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "501e7be50b07",
+      "company": "中国航发四川燃气涡轮研究院",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "事业单位",
+      "industry": "制造业/汽车与新能源",
+      "positions": "设计技术类岗位、试验技术类岗位、信息技术类岗位、数字化转型类岗位、职能管理类岗位、机械设计制造及其自动化",
+      "city": "成都,绵阳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/mvn9IalTkM4iAVeRp2hylQ",
+      "applyUrl": "https://wolunyuan.iguopin.com",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "ca5446146b70",
+      "company": "中国银河证券",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "国企",
+      "industry": "银行与金融",
+      "positions": "管培生、理财顾问类、投资经理助理、研究岗、技术开发类、投资助理、业务助理、分析师、人力资源",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/WM9VkVklQjlMfvBtuSZjbg",
+      "applyUrl": "https://chinastock.zhiye.com/custom/campus",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "fad9ea05c169",
+      "company": "中建阿尔及利亚公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "国企",
+      "industry": "房地产与建筑",
+      "positions": "项目管理岗、商务合约岗、装修工程岗、电气工程岗、弱电工程岗、给排水工程岗、暖通工程岗、安全工程岗、采购供应链岗、设计协调岗、财务会计岗、人力资源岗、翻译岗、合规管理监督岗、企划岗",
+      "city": "海外",
+      "announcementUrl": "https://mp.weixin.qq.com/s/n9F38FNJL1Cf5Oluh5aZ_Q",
+      "applyUrl": "https://hcm.pub/c99d5",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "dd77e59f401b",
+      "company": "中科光电",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/化工与新材料",
+      "positions": "业务规划工程师、行业经理、售前支持工程师、研发项目经理、产品经理、技术支持工程师、销售运营骨干、项目管理储备主管",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/YpSltGFxpdFDxDC14M2TrA",
+      "applyUrl": "https://www.zhaopin.com/companydetail/jobs-CZ470818610",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "91698ea4d75b",
+      "company": "中铁二局浙江公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "国企",
+      "industry": "房地产与建筑",
+      "positions": "详见投递页",
+      "city": "杭州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/jnsGEgLNkRMIDjSI18sxYQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/jnsGEgLNkRMIDjSI18sxYQ",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "6a4e79545bf0",
+      "company": "中铁六局路桥公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "国企",
+      "industry": "房地产与建筑",
+      "positions": "机械设计制造及自动化、财务管理、会计学、人力资源管理",
+      "city": "长沙",
+      "announcementUrl": "https://mp.weixin.qq.com/s/XchjcddvjA2f-aQtzgQF8w",
+      "applyUrl": "https://mp.weixin.qq.com/s/XchjcddvjA2f-aQtzgQF8w",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "b1abb81e5c2e",
+      "company": "云迹科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "算法类、产品类、项目类、设计类、销售类、运营类",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/RZlLvJkYL1o3bmKvD5-Quw",
+      "applyUrl": "https://mp.weixin.qq.com/s/RZlLvJkYL1o3bmKvD5-Quw",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "553942150e60",
+      "company": "先进芯测",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "助理机械工程师、助理电气工程师、助理软件工程师(平台)、助理软件工程师、助理电子工程师、助理制冷工程师、助理项目管理工程师、助理采购工程师、助理品质工程师、助理技术支持工程师、助理电气工艺工程师、助理",
+      "city": "苏州,深圳,东莞,嘉兴",
+      "announcementUrl": "https://mp.weixin.qq.com/s/iDO8Q-auD3BlAMgGEu1Idg",
+      "applyUrl": "https://v.wjx.cn/vm/PpgojG8.aspx",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "ce3853d1903d",
+      "company": "北京国望光学科技有限公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "软件算法类",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/RQCPSmYwbLRZniTjbDkAsw",
+      "applyUrl": "https://wecruit.hotjob.cn/SU68392ea2ed91a2307e2a97a1/mc/position/campus",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "1238894049d3",
+      "company": "半鞅私募",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "实习",
+      "typeTags": [
+        "实习"
+      ],
+      "tags": [],
+      "targetCohort": "2028届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "量化研究员、量化开发工程师",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/WMGLlbrq0brCr5tfHZ3cjw",
+      "applyUrl": "https://banyangcap.jobs.feishu.cn/index/m",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "61c9d649f83b",
+      "company": "哈乐沃德",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2026届,2027届",
+      "companyType": "民营",
+      "industry": "信息技术/游戏与数字内容",
+      "positions": "美术&设计类、产品策划类",
+      "city": "武汉",
+      "announcementUrl": "https://mp.weixin.qq.com/s/-0WfNR8x3SSeW6HlRBqgqQ",
+      "applyUrl": "https://www.hellowd.net",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "459b52c85066",
+      "company": "圣湘生物",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "医药与医疗",
+      "positions": "蛋白研发工程师、耗材研发工程师、材料研发工程师、销售管培生、技术管培生、品牌传播管培生、信息化工程师、仪器质量工程师、体系工程师、试剂工艺工程师、采购工程师、营销管培生、数据管培生、酶研发工程师",
+      "city": "全国",
+      "announcementUrl": "https://sansurehr.zhiye.com/campus/jobs",
+      "applyUrl": "https://sansurehr.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/4/17"
+    },
+    {
+      "id": "5fdc4f49be71",
+      "company": "坤维科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2026届,2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "传感器结构研发工程师、机械结构设计工程师、半导体工艺工程师、技术销售工程师、Ai应用工程师、嵌入式硬件工程师、测试工程师、项目经理、产品经理",
+      "city": "北京,上海,常州,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/vKdCaI10x9ayhryoeLGP6A",
+      "applyUrl": "https://mp.weixin.qq.com/s/vKdCaI10x9ayhryoeLGP6A",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "8c47106022eb",
+      "company": "城堡证券",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "实习",
+      "typeTags": [
+        "实习"
+      ],
+      "tags": [],
+      "targetCohort": "2028届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "Trading Fundamental Analyst -Intern (US)、Software Engineer - Intern (Australia)、Software Engineer -",
+      "city": "香港,海外",
+      "announcementUrl": "https://www.citadelsecurities.com/careers/open-opportunities",
+      "applyUrl": "https://www.citadelsecurities.com/careers/open-opportunities",
+      "status": "待投递",
+      "openAt": "2026/7/20"
+    },
+    {
+      "id": "f51f9e7a2c97",
+      "company": "宏茂微电子",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "SSD项目方向",
+      "city": "上海,武汉",
+      "announcementUrl": "https://mp.weixin.qq.com/s/qoE7aDkXbKd6GRdYZhn99Q",
+      "applyUrl": "https://xyz.51job.com/External/Apply.aspx",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "44b45460d0f0",
+      "company": "宝宝巴士",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-11-06",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "儿歌产品策划师、图书点读策划师、儿童内容审校专员、互动产品策划师、音频产品策划师、用户研究专员、阿语产品专员、英语产品策划师、文案策划",
+      "city": "福州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/5PiexB3R8vIDDrSYXWJE3Q",
+      "applyUrl": "https://babybus.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "d4851715392e",
+      "company": "居然之家",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "招商运营、平面设计、财务专员、人力行政",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/AA9dNZ9U6T3FObrdhis6zQ",
+      "applyUrl": "https://wecruit.hotjob.cn/SU6437d5632f9d2448ab674f32/mc/index",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "f10bf4a51ebe",
+      "company": "新和成",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "医药与医疗",
+      "positions": "原料采购专员",
+      "city": "绍兴",
+      "announcementUrl": "https://mp.weixin.qq.com/s/_6J-dECad5cSdnBK8-IxgA",
+      "applyUrl": "https://xinhecheng1.zhiye.com/jobs",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "15c35bdbdf2b",
+      "company": "昂赛微电子",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "应用工程师、测试工程师、模拟版图设计工程师、模拟IC设计工程师",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/7e7CUhkoqLkf5kunXQavmQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/7e7CUhkoqLkf5kunXQavmQ",
+      "status": "待投递",
+      "openAt": "2026/8/25"
+    },
+    {
+      "id": "f076e88b2033",
+      "company": "星海图",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "行业独角兽"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "全球管培生、技术英才计划(算法类、开发类",
+      "city": "北京,苏州,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/1Hh9M8DhWt9v37N3qR4jUA",
+      "applyUrl": "https://galaxea.zhiye.com/jobs",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "f912f3a6fcf5",
+      "company": "星火教育广州分公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "教育",
+      "positions": "精品课堂管培生",
+      "city": "广州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/MgjdhQM9Ars3K6ur5x-akw",
+      "applyUrl": "https://xhgz-hrm.xiao100.com/pages/mine/index",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "9932059dcd17",
+      "company": "星空科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "技术支持系统设计系统建模光学设计 光学测试 光电设计光机结构设计固件开发软件开发测校开发集成调试运 动控制平台设计电气设计机械设计",
+      "city": "上海",
+      "announcementUrl": "https://istar-group.zhiye.com",
+      "applyUrl": "https://istar-group.zhiye.com",
+      "status": "待投递",
+      "openAt": ""
+    },
+    {
+      "id": "33be1e2fb838",
+      "company": "星际原点",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "高端制造与航空航天",
+      "positions": "卫星姿轨控工程师、卫星结构与机构工程师、卫星嵌入式软件工程师、卫星能源分系统工程师、卫星通信测控工程师、卫星轨道设计工程师、计划经理",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/elzizD6pPBtmG7Hm0wAH5w",
+      "applyUrl": "https://mp.weixin.qq.com/s/elzizD6pPBtmG7Hm0wAH5w",
+      "status": "待投递",
+      "openAt": "2026/8/25"
+    },
+    {
+      "id": "76b8b2a5e4b0",
+      "company": "比亚迪",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/汽车与新能源",
+      "positions": "零售金融团队",
+      "city": "深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/tZlXsPhgwdPnhSL3mLD-lw",
+      "applyUrl": "https://mp.weixin.qq.com/s/tZlXsPhgwdPnhSL3mLD-lw",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "048a98c63c1c",
+      "company": "汇顶科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "安全算法工程师、芯片测试开发工程师、客户质量工程师、现场应用工程师、测试开发工程师、硬件工程师(通讯系统方向)、芯片系统工程师、系统软件工程师、图像算法工程师、信号算法工程师",
+      "city": "深圳,成都,武汉,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/jgA4n4mfQZKZdtdmJMhCVw",
+      "applyUrl": "https://goodix.zhiye.com/Promotion/ed3cdb53-698e-495f-83b6-0ed70b7b081a",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "f0d1e5eefa08",
+      "company": "江苏东成电动工具",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "算法工程师、AI工程师、电子工程师、结构工程师、CAE工程师、工业设计师、UI设计师、专利工程师、产品经理、项目经理、包装工程师、测试工程师、海外营销管培生、国内营销管培生、市场专员、专卖店运营专员",
+      "city": "上海,苏州,南通,杭州,深圳,海外",
+      "announcementUrl": "https://mp.weixin.qq.com/s/BG_Qw0-8lzTvaCd2fD-Kzg",
+      "applyUrl": "https://jobs.51job.com/all/coBGNXM1Y3BDsBYgdjVDgFOw.html",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "55be3e91cef9",
+      "company": "江西省电力设计院",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "国企",
+      "industry": "其他",
+      "positions": "设计类、数字开发类",
+      "city": "呼和浩特,南昌,济南,广州,贵阳,西安,海外",
+      "announcementUrl": "https://mp.weixin.qq.com/s/F4CJBOD15RvuTS5eJUbAoA",
+      "applyUrl": "https://jxepdipowerchina.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "8f74b2336e2d",
+      "company": "泰科电子 (TE Connectivity）",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "外企",
+      "industry": "其他",
+      "positions": "工程研发工程师、项目管理工程师、质量工程师、生产运营、客户商务专员",
+      "city": "上海,苏州,南通",
+      "announcementUrl": "https://mp.weixin.qq.com/s/J9BWFddLhMjEXCYnPuTx8Q",
+      "applyUrl": "https://campus.51job.com/te/p2.html",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "e24c2167d732",
+      "company": "湖州市数据科技集团下属子公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-08-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "房地产与建筑",
+      "positions": "财务核算岗",
+      "city": "浙江省湖州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ioC8H5zZO9J6vUpFFxXtbQ",
+      "applyUrl": "https://data.lailema.vip/dc/design/newRecord.html",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "74dad9df3734",
+      "company": "源氏木语",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "产品板块、运营板块",
+      "city": "上海,嘉兴,青岛,广州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/SHKUsVMV-HU9gPw9bxA_VQ",
+      "applyUrl": "https://app.mokahr.com/m/campus-recruitment/yeswood/142521",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "25cee7c5efa9",
+      "company": "源清动力",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "技术工程师、工艺工程师、质量工程师、数字化工程师",
+      "city": "上海,南京,无锡,西安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/jAcmH2zeB2eLjukJJA6vWQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/jAcmH2zeB2eLjukJJA6vWQ",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "6c699a7176af",
+      "company": "澳鹏数据",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "项目助理岗位",
+      "city": "成都,重庆,大连,无锡",
+      "announcementUrl": "https://mp.weixin.qq.com/s/nBRD3qdoQJD__KBX9pLzZg",
+      "applyUrl": "https://oriendata.feishu.cn/share/base/form/shrcnNgBcRhgtxDmWTetXVmumzc",
+      "status": "待投递",
+      "openAt": "2026/8/20"
+    },
+    {
+      "id": "cf3c2e65af9d",
+      "company": "睿能科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "软件工程师、硬件工程师、电机结构工程师、电机工艺工程师、结构工程师、助理结构工程师、技术服务工程师、质量工程师、制造工程师、工艺工程师、IE工程师、供应链管培生（计划方向）",
+      "city": "嘉兴,福州,诸暨,东莞",
+      "announcementUrl": "https://mp.weixin.qq.com/s/kdtF9kGwxPjcf-R95qpt-Q",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/raynen/115955",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "0dca0b274637",
+      "company": "纽达投资",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "实习",
+      "typeTags": [
+        "实习"
+      ],
+      "tags": [],
+      "targetCohort": "2028届",
+      "companyType": "国企",
+      "industry": "银行与金融",
+      "positions": "量化研究员、系统开发工程师、新媒体及渠道运营",
+      "city": "深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/sZBBntD5VZdmRcL0UCRFvg",
+      "applyUrl": "https://mp.weixin.qq.com/s/sZBBntD5VZdmRcL0UCRFvg",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "9f55626ecddf",
+      "company": "蔚来",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/汽车与新能源",
+      "positions": "蔚来顾问、乐道顾问",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/UC8uy1MIivV01YhAi9R97g",
+      "applyUrl": "https://mp.weixinbridge.com/mp/wapredirect",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "e41eca381209",
+      "company": "虹桥正瀚",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "实习",
+      "typeTags": [
+        "实习"
+      ],
+      "tags": [],
+      "targetCohort": "2028届",
+      "companyType": "民营",
+      "industry": "咨询与专业服务",
+      "positions": "长期实习生、短期实习生",
+      "city": "北京,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/5MENN_U-OK_rohFPUSxpkw",
+      "applyUrl": "https://mp.weixin.qq.com/s/5MENN_U-OK_rohFPUSxpkw",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "a0ded7ce264c",
+      "company": "龙蟠科技集团",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "研发管培生、工艺管培生、IT管培生、生产管培生、设备管培生、IE管培生、计划管培生、储运管培生、安环管培生、能源管培生、质量管培生、检测管培生、金融管培生、人力管培生、财务管培生、法务管培生、审计管培",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/UGtoHmQQo8BSjKpD-BIu7g",
+      "applyUrl": "https://bsurl.cn/v2/SZXtURMV",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "27e41783453f",
+      "company": "中铁六局建安公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "央企",
+      "industry": "房地产与建筑",
+      "positions": "相关专业岗、财务会计类",
+      "city": "北京,天津,河北,山西,内蒙古,山东,江苏,河南,贵州,云南",
+      "announcementUrl": "https://mp.weixin.qq.com/s/HAStkOPHs7ydWB071ImUag",
+      "applyUrl": "https://mp.weixin.qq.com/s/HAStkOPHs7ydWB071ImUag",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "23e53ed91921",
+      "company": "TCL实业大显示制造管理平台",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "视觉开发工程师、IE工程师、嵌入式开发工程师、结构工艺工程师、系统开发工程师、PE工艺工程师、机械设计工程师、工艺工程师、设备规划工程师、测试工程师、项目管理工程师、制程质量工程师、模具设计工程师",
+      "city": "成都,越南,墨西哥,巴西,巴基斯坦",
+      "announcementUrl": "https://mp.weixin.qq.com/s/q74ldti3GwjcSlcY4Db3OQ",
+      "applyUrl": "https://wecruit.hotjob.cn/SU6491506a2f9d24316e91b81b/mc/position/campus",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "8990237f0e15",
+      "company": "中铁六局",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "央企",
+      "industry": "房地产与建筑",
+      "positions": "技术管理岗、成本管理岗、物资管理岗、机械管理岗、财务管理岗、综合管理岗",
+      "city": "北京,天津,石家庄,沈阳,长春,南京,杭州,福州,拉萨,兰州,西宁,乌鲁木齐",
+      "announcementUrl": "https://mp.weixin.qq.com/s/-Nk0MnF5Qoryl-2euua6wA",
+      "applyUrl": "https://mp.weixin.qq.com/s/-Nk0MnF5Qoryl-2euua6wA",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "da7e9eec8a6b",
+      "company": "卓尔数科",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "运营、策划、设计、产品经理、财务、法务、人力资源、流程运营、项目运营、市场经理",
+      "city": "上海,武汉",
+      "announcementUrl": "https://mp.weixin.qq.com/s/oRaoQ2zoomJH1XeJ2I5rsw",
+      "applyUrl": "https://www.zhipin.com/gongsi/job/a3beeb9b6f8f89470HB839u_EQ~~.html",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "dfb461939bac",
+      "company": "中国电信云计算分公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-24",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "央企",
+      "industry": "通信与运营商",
+      "positions": "后端开发、算法、研发工程师",
+      "city": "北京,上海",
+      "announcementUrl": "https://job.chinatelecom.com.cn/wt/TELE/web/index",
+      "applyUrl": "https://job.chinatelecom.com.cn/wt/TELE/web/index",
+      "status": "待投递",
+      "openAt": ""
+    },
+    {
+      "id": "269b1819722b",
+      "company": "中国电信海南公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-09-27",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "央企",
+      "industry": "通信与运营商",
+      "positions": "研发工程师、财务管理",
+      "city": "海南",
+      "announcementUrl": "https://mp.weixin.qq.com/s/37pL_5ApEyx9KLR1A5lsoA",
+      "applyUrl": "https://wejob.chinatelecom.com.cn/wt/TELE/mobweb/v8/position/list",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "c30285fb1570",
+      "company": "浙江信产",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "",
+      "companyType": "国企",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "AI算法工程师、解决方案经理、AI运营、工程师、互联网产品运营、财务管理",
+      "city": "杭州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/V7bzR-iXJR6-iRnNJg0ixw",
+      "applyUrl": "https://job.chinatelecom.com.cn/wt/TELE/web/index",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "b5f0899bb5cb",
+      "company": "中财化建",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "能源与资源",
+      "positions": "产品研发、采购管理、产品经理、给排水设计、建筑设计",
+      "city": "天津,长春,杭州,绍兴,衢州,六安,漳州,长沙,茂名,成都,西安,乌鲁木齐",
+      "announcementUrl": "https://mp.weixin.qq.com/s/8RprFKYsn0thf16WhNsb3Q",
+      "applyUrl": "https://hjoa.zhongcai.com:8001/edc/formview/t71p1y",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "b5563a19610d",
+      "company": "长光华芯",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "项目研究员、工艺工程师、产品工程师、应用工艺工程师、器件工程师、光学工程师、数据分析工程师、现场应用工程师、外延工程师、封装工程师、光电测试工程师、设备工程师、机械工程师、厂务工程师、电控工程师",
+      "city": "北京,天津,长春,上海,南京,苏州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/kth8pKZ6a3_26N4bubm94g",
+      "applyUrl": "https://v.wjx.cn/vm/wkCodu2.aspx",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "2087589b2cec",
+      "company": "中国电科32所",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "央企",
+      "industry": "制造业/电子半导体",
+      "positions": "总体设计工程师、芯片算法工程师、硬件研发工程师、嵌入式软件工程师、C++算法工程师、Java开发工程师、AI应用工程师、数据分析工程师、测试工程师、智能算法测试工程师、渗透测试工程师",
+      "city": "北京,上海,南京,武汉,广州,深圳,成都",
+      "announcementUrl": "https://mp.weixin.qq.com/s/iiYejH9932MT8WKvMTj2Ig",
+      "applyUrl": "https://wecruit.hotjob.cn/SU66c447a01eb805432564cfaf/mc/position/campus",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "eb05953b10f8",
+      "company": "亿源通科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "采购",
+      "city": "清远,深圳,海外,:泰国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/EDFV1FqzMuYFHfArf3DBfQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/EDFV1FqzMuYFHfArf3DBfQ",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "5e7dbe0feff4",
+      "company": "信芯微",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "量化算法开发工程师、AI编译器开发工程师、芯片算法开发工程师、芯片硬件开发工程师、芯片软件开发工程师、芯片数字验证工程师、芯片数字设计工程师",
+      "city": "青岛,西安,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/tHgy5ixJRrs_iojKlrBNBg",
+      "applyUrl": "https://jobs.hisense.com",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "222799622f45",
+      "company": "新时达",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "算法工程师、运动控制工程师、软件工程师、模型与应用工程师、AI工程师、软件开发工程师、硬件工程师、结构工程师、机械工程师、系统工程师、机械设计工程师、电气工程师、测试工程师、电机控制工程师",
+      "city": "上海,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ysK1z2mShrfeyKwZrr6p7w",
+      "applyUrl": "https://mp.weixin.qq.com/s/ysK1z2mShrfeyKwZrr6p7w",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "2b38fbdb6182",
+      "company": "旭之源科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "能源与资源",
+      "positions": "技术型销售工程师",
+      "city": "北京,山东,江苏,浙江,上海,广东省·深圳,广州,.",
+      "announcementUrl": "https://mp.weixin.qq.com/s/BhmWtQIoe7CsJ_HVYtW0-A",
+      "applyUrl": "https://atazpower.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "a54e80a0e826",
+      "company": "新东方合肥学校",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "教育",
+      "positions": "文学素养教师、双语阅读教师、理科脑力思维教师、初中学习机语文教师、初中学习机数学教师、初中学习机英语教师、初中学习机物理教师、高中数学教师、高中英语教师、高中物理教师、高中化学教师、市场专员、课程销售",
+      "city": "合肥",
+      "announcementUrl": "https://mp.weixin.qq.com/s/OZk8xlb6QxRtrZLz3n0Wsw",
+      "applyUrl": "https://zhaopin.xdf.cn/jobs",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "a3aa27e51f77",
+      "company": "腾讯营销",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot",
+        "超级大厂",
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "Al-native类:AI全栈工程师、Agent开发工程师、AI安全技术工程师(风控算法)、技术类:后台开发、算法-数据科学方向、算法-机器学习方向、算法-多模态方向、算法-推荐算法方向",
+      "city": "深圳,北京,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/kVmbFXDWmVm1Mj5sN38ODQ",
+      "applyUrl": "https://mp.weixinbridge.com/mp/wapredirect",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "bbd08837de26",
+      "company": "天演资本",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "量化研究员",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/BIT3cqQUGr4GI46GZjmm2w",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/tianyancapital/98902",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "413a5778e360",
+      "company": "平安人寿浙江分公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "管培生(经营分析)、管培生(核保核赔)、管培生(消费者权益保护)",
+      "city": "杭州,金华,绍兴,温州,台州,嘉兴,湖州,丽水,衢州,舟山",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Z4aO9GwwRZUM7lps8BHZIA",
+      "applyUrl": "https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/search",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "1aa44d8ad04b",
+      "company": "平安银行南京分行",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "分行零售业务培训生、分行公司业务培训生、分行运营、培训生",
+      "city": "南京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/V-0gsPgoWLVWYuP4el-2Nw",
+      "applyUrl": "https://wetalent.pingan.com/cb3685e9c6163b7cb82ea4352291031e/campus/home",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "ef4d804c85e2",
+      "company": "渠梁电子",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "产品开发制程工程师、制程整合工程师、制程工程工程师、产品工程工程师、设计质量(DQE)、工程师、失效分析工程师、安卫工程师、生产管制工程师",
+      "city": "晋江",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ggDPcBqqA0yBeZXtMT6uuQ",
+      "applyUrl": "https://qleltd1.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "e8d6965cbfd8",
+      "company": "睿兴投资",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "日常实习",
+      "typeTags": [
+        "日常实习"
+      ],
+      "tags": [],
+      "targetCohort": "",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "投资研究实习生、基金运营、实习生、合规风控实习生",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/AW0_qu1Ph-APr6aXhyNHfw",
+      "applyUrl": "https://mp.weixin.qq.com/s/AW0_qu1Ph-APr6aXhyNHfw",
+      "status": "待投递",
+      "openAt": ""
+    },
+    {
+      "id": "3b91487dd9c1",
+      "company": "平安人寿云南公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "NS管培生（武将专项）、NS管培生（武将专项·银保）",
+      "city": "昆明",
+      "announcementUrl": "https://mp.weixin.qq.com/s/b_DA2aRo79QjhJnG3jaqqQ",
+      "applyUrl": "https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/positionDetail",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "80cac1b7613b",
+      "company": "平安人寿上海分公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "NS管培生（经营分析）、NS管培生(武将专项)",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ehFIrwUuU8Gnx3jfAtYtfw",
+      "applyUrl": "https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/search",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "93d0192276da",
+      "company": "平安人寿烟台中心支公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "NS管培生",
+      "city": "烟台",
+      "announcementUrl": "https://mp.weixin.qq.com/s/WIJLhPG1zHlrQZdL5cslCQ",
+      "applyUrl": "https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/positionDetail",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "9ab5ad1b8b6d",
+      "company": "平安人寿湖北公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "NS管培生（武将专项）、NS管培生（经营分析）",
+      "city": "湖北",
+      "announcementUrl": "https://mp.weixin.qq.com/s/9Vat9uX_lKKnKzC3Tuzakw",
+      "applyUrl": "https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/search",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "b18e6efe7f28",
+      "company": "平安人寿河北分公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "NS管培生(武将专项)、NS管培生(法律合规)、NS管培生(核保核赔)、NS管培生(银行保险部)",
+      "city": "石家庄,沧州,唐山,保定,廊坊,邯郸,邢台,秦皇岛,张家口",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Yt73a_S0WC0Tv2LPF0GI6w",
+      "applyUrl": "https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/search",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "d54c044dec0c",
+      "company": "欧摩威",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "实习",
+      "typeTags": [
+        "实习"
+      ],
+      "tags": [],
+      "targetCohort": "",
+      "companyType": "外企",
+      "industry": "其他",
+      "positions": "TalentAcquisitionIntern、SalesAssistantIntern、PM&MarketingIntern、SoftwareIntern、Information&CyberSecu",
+      "city": "上海,重庆",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Jp51OqR2kOVa-PStG4Uqdw",
+      "applyUrl": "https://mp.weixin.qq.com/s/Jp51OqR2kOVa-PStG4Uqdw",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "fd85f69351e2",
+      "company": "彭博Bloomberg",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "",
+      "companyType": "外企",
+      "industry": "银行与金融",
+      "positions": "分析与销售项目",
+      "city": "北京,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/XzIDem6rlwMy1Xj_prYirw",
+      "applyUrl": "https://bloomberg.avature.net/careers/Private",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "faef96ef3287",
+      "company": "平安人寿海南分公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "NS管培生",
+      "city": "海口",
+      "announcementUrl": "https://mp.weixin.qq.com/s/KFUUk4ny0pKrQ4MU4G_ACA",
+      "applyUrl": "https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/search",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "cb8bcb1130ab",
+      "company": "平安人寿黑龙江分公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "NS管培生（武将专项）：产品推动、人力推动",
+      "city": "黑龙江",
+      "announcementUrl": "https://mp.weixin.qq.com/s/HR5Dz0_8i0WnPIAYNO0vjA",
+      "applyUrl": "https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/positionDetail",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "88c0cc4366ce",
+      "company": "乐动机器人",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "导航算法工程师、slam 算法工程师、融合定位算法工程师、激光雷达算法工程师、大模型算法工程师、嵌入式工程师、ID 设计师、产品经理、销售管培生、营销管培生、财务管培生、人力管培生、应用开发工程师",
+      "city": "深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/vpPHA60G3r1QVI-YrHgXoQ",
+      "applyUrl": "https://ldrobot.zhiye.com",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "7768d15c8ed0",
+      "company": "联通支付",
+      "updatedAt": "2026-08-28",
+      "deadline": "2027-08-31",
+      "type": "校招",
+      "typeTags": [
+        "校招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "央企",
+      "industry": "银行与金融",
+      "positions": "后端开发、产品、算法",
+      "city": "北京",
+      "announcementUrl": "https://cupay.zhiye.com/campus",
+      "applyUrl": "https://cupay.zhiye.com/campus",
+      "status": "待投递",
+      "openAt": ""
+    },
+    {
+      "id": "6b15ce68b469",
+      "company": "良信电气",
+      "updatedAt": "2026-08-28",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "产品开发、产品技术支持、电子开发、软件开发、算法开发、技术支持工程师、经销商专员、产品专员、国内销售岗、海外销售岗、工艺工程师、质量专员、会计核算",
+      "city": "上海,嘉兴",
+      "announcementUrl": "https://mp.weixin.qq.com/s/_Y4daE_hLB4L3lAw57XWWA",
+      "applyUrl": "https://nader.m.zhiye.com",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
+    {
+      "id": "89ed5f229899",
+      "company": "利尔达",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "产品方向-产品战略与规划",
+      "city": "杭州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/_LAapXNGzUeTwsq7H5s_rg",
+      "applyUrl": "https://app135149.eapps.dingtalkcloud.com/campus-recruitment/lierda/100004103",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "35471188558a",
+      "company": "昆仑万维",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-12-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "知名大厂"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "后端开发、前端开发、产品、运营、算法",
+      "city": "北京,上海",
+      "announcementUrl": "https://jobs.kunlun.com/459522/position/list",
+      "applyUrl": "https://jobs.kunlun.com/459522/position/list",
+      "status": "待投递",
+      "openAt": ""
+    },
+    {
+      "id": "313bc9f49516",
+      "company": "开沃集团",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/汽车与新能源",
+      "positions": "车身工程师、电气工程师、热管理工程师、底盘工程师、CAE工程师、策略分析工程师、结构工程师、软件工程师、产品工程师、控制系统工程师、产品管理、总布置工程师、控制器开发工程师、智能驾驶工程师、初级产品经",
+      "city": "南京,淮南,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Hk0VGsdoGYGd3ORE--mfoA",
+      "applyUrl": "https://f.kdocs.cn/g/bVbaegHz",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "4f0150a348a9",
+      "company": "丽天智能",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "自动驾驶算法工程师、具身智能算法工程师、结构工程师、电控工程师",
+      "city": "上海,湖州,威海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/8tsh_YDfJUEXgZT0Dq875A",
+      "applyUrl": "https://distribute.ebiaoge.com/sp/formreport/distribute/tot7psavqa/7598583105417817957",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "98d42ad1c5b1",
+      "company": "酷睿程(北京)科技有限公司",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-25",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "通信与运营商",
+      "positions": "后端开发、前端开发、客户端开发、测试、硬件工程师、设计、算法、研发工程师、销售技术支持",
+      "city": "北京,上海",
+      "announcementUrl": "https://carizon.jobs.feishu.cn/421026/position/list",
+      "applyUrl": "https://carizon.jobs.feishu.cn/421026/position/list",
+      "status": "待投递",
+      "openAt": ""
+    },
+    {
+      "id": "6fa38bff4454",
+      "company": "华峰测控",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "硬件工程师、软件工程师、应用研发工程师、模拟IC设计工程师、结构工程师、应用工程师、技术支持工程师、应用服务工程师、法务助理",
+      "city": "苏州,深圳,上海,无锡,天津,西安,成都,北京,杭州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/2UUnjlbuCeuweytEr6iE3g",
+      "applyUrl": "https://www.hftc.com.cn/job.html",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "b5a51c80e385",
+      "company": "红茶移动",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "通信与运营商",
+      "positions": "AI全栈工程师、嵌入式工程师、Java工程师、测试工程师、交付工程师、商务销售、财务、运营、专员",
+      "city": "北京,上海,南昌,武汉,深圳,珠海,西安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/taEfcIXJ1NyiOSoJXW5xQg",
+      "applyUrl": "https://talentsphere.redteamobile.com/submit-resume",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "5014c366497a",
+      "company": "禾赛科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/汽车与新能源",
+      "positions": "AI Infra 工程师、数据算法工程师、高性能计算工程师、C++ 开发工程师、基础几何模型工程师、视频生成工程师、世界模型算法工程师、影像算法工程师、3D 渲染工程师、Infra 算法工程师",
+      "city": "上海,杭州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/D880mQJRD_szYY2N4yyRaw",
+      "applyUrl": "https://kwh0jtf778.jobs.feishu.cn/229043/m",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "48dbcd659ea6",
+      "company": "豪能股份",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/汽车与新能源",
+      "positions": "工艺产品工程师、包装工程师、销售工程师、质量工程师、专员、会计",
+      "city": "泸州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/qpS8_GUtmZIZQLXc0_TOhA",
+      "applyUrl": "https://jsj.top/f/pDmie7",
+      "status": "待投递",
+      "openAt": "2026/8/25"
+    },
+    {
+      "id": "33111ba57adf",
+      "company": "邦戴数科",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "日常实习",
+      "typeTags": [
+        "日常实习"
+      ],
+      "tags": [],
+      "targetCohort": "",
+      "companyType": "民营",
+      "industry": "银行与金融",
+      "positions": "量化研究员(寒假、策略优化研究员(寒假、开发工程师(寒假、期权算法研究员(寒假",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/4fOibBkx6_Lb_TK7NdYE4w",
+      "applyUrl": "https://app.mokahr.com/m/campus-recruitment/bonditech/143553",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "84d5565b4e5a",
+      "company": "安泰测试科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "技术支持工程师、质检工程师、硬件研发助理、工程师、软件工程师、硬件助理、初级工程师、行政管培生、商务管培生",
+      "city": "西安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/NkxGAEhil_IXmR6Vv1yz_A",
+      "applyUrl": "https://mp.weixin.qq.com/s/NkxGAEhil_IXmR6Vv1yz_A",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "ea05cdc1d77f",
+      "company": "安世博集团",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "电子工程师、嵌入式软件工程师、机械结构工程师、控制软件工程师、通信软件工程师、海外销售、技术支持工程师、工艺工程师、工业工程师、设备工程师、测试工程师、过程质量工程师、客户质量工程师、供应商质量工程师",
+      "city": "上海,苏州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Ui6hoWe4QX7DIRjRd5a-eA",
+      "applyUrl": "https://www.acepowerenergy.com",
+      "status": "待投递",
+      "openAt": "2026/8/26"
+    },
+    {
+      "id": "f42656af1c5d",
+      "company": "海艺互娱",
+      "updatedAt": "2026-08-28",
+      "deadline": "2027-05-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "后端开发、前端开发、产品、运营、设计、管理培训生、算法",
+      "city": "成都",
+      "announcementUrl": "https://app.mokahr.com/campus-recruitment/haiyi/150699",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/haiyi/150699",
+      "status": "待投递",
+      "openAt": "2026/8/24"
+    },
+    {
+      "id": "92424f50ffcf",
+      "company": "东材科技",
+      "updatedAt": "2026-08-28",
+      "deadline": "2026-10-26",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "其他",
+      "positions": "研发工程师、设备工程师、内贸销售工程师、外贸销售工程师、质量管理工程师、机械设计与制造",
+      "city": "北京,沈阳,苏州,南通,杭州,长沙,株洲,东莞,成都,绵阳,西安,东营",
+      "announcementUrl": "https://mp.weixin.qq.com/s/z9H2Ka1WqkS3AWLrNMtAvg",
+      "applyUrl": "https://www.emtco.cn",
+      "status": "待投递",
+      "openAt": "2026/8/27"
+    },
     {
       "id": "bc48b8d4f0ff",
       "company": "TP-Link联洲",
@@ -279,7 +2105,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -341,7 +2169,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -698,7 +2529,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "国企",
@@ -903,7 +2735,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -923,7 +2757,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -1459,7 +3295,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -1604,7 +3441,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -1866,7 +3705,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -2037,7 +3878,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "超级大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -2140,7 +3982,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -2756,7 +4600,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/家电与家居",
@@ -2798,7 +4644,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "国企",
       "industry": "房地产与建筑",
@@ -2963,7 +4811,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "国企",
@@ -3108,7 +4957,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "国企",
       "industry": "制造业/汽车与新能源",
@@ -3276,7 +5127,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "教育",
@@ -3656,7 +5509,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "国企",
       "industry": "房地产与建筑",
@@ -5814,7 +7669,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -5835,7 +7691,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "教育",
@@ -6060,7 +7918,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -6081,7 +7940,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -6283,7 +8144,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "国企",
       "industry": "房地产与建筑",
@@ -6486,7 +8349,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -6508,7 +8372,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -6629,7 +8494,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -6853,7 +8720,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -7855,7 +9724,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -8379,7 +10251,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -11073,7 +12947,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -11302,7 +13177,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "教育",
@@ -11633,7 +13510,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
@@ -11675,7 +13553,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -11778,7 +13657,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -13187,7 +15068,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -13311,7 +15194,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "教育",
@@ -13911,7 +15796,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -15549,7 +17436,9 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -15858,7 +17747,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -16838,7 +18729,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -17160,7 +19053,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -17306,7 +19202,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "外企",
       "industry": "制造业/电子半导体",
@@ -17326,7 +19224,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "未注明",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -17468,7 +19368,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "外企",
       "industry": "制造业/汽车与新能源",
@@ -17574,7 +19476,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -17909,7 +19814,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "实习生,在校生",
       "companyType": "外企",
@@ -18666,7 +20572,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -18894,7 +20802,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届,2026届",
       "companyType": "外企",
       "industry": "品牌与消费",
@@ -19434,7 +21344,10 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -19808,7 +21721,9 @@
       "typeTags": [
         "春招补录"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -20244,7 +22159,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -20532,7 +22449,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "物流与供应链",
@@ -20902,7 +22821,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "央企",
       "industry": "制造业/智能制造与装备",
@@ -21335,7 +23256,9 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
@@ -21357,7 +23280,9 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -21378,7 +23303,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -21418,7 +23346,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "外企",
       "industry": "制造业/电子半导体",
@@ -21665,7 +23595,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -22185,7 +24116,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -22722,7 +24655,9 @@
       ],
       "tags": [
         "知名大厂",
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
@@ -22909,7 +24844,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "银行与金融",
@@ -23442,7 +25379,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -23983,7 +25921,9 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
@@ -24004,7 +25944,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -24024,7 +25967,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -24251,7 +26197,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -24521,7 +26469,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -24687,7 +26637,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "垂直赛道头部"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -24833,7 +26784,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "物流与供应链",
@@ -25081,7 +27034,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -25557,7 +27512,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -25804,7 +27762,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届,2028届,2026届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -26590,7 +28550,9 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "央企",
@@ -26802,7 +28764,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -27069,7 +29034,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "超级大厂"
       ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
@@ -27151,7 +29117,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
@@ -27583,7 +29550,9 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2026届,2025届,2024届",
       "companyType": "民营",
@@ -27666,7 +29635,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -27768,7 +29739,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2024届,2025届,2026届",
       "companyType": "外企",
       "industry": "医药与医疗",
@@ -28724,7 +30697,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -29115,7 +31090,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -29243,7 +31219,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -29622,7 +31599,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "教育",
@@ -29642,7 +31622,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -29849,7 +31832,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2025届,2026届,2027届",
       "companyType": "民营",
       "industry": "咨询与专业服务",
@@ -30117,7 +32102,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -30138,7 +32125,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "超级大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -30159,7 +32147,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "咨询与专业服务",
@@ -30240,7 +32230,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "头部大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -30261,7 +32252,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -30765,7 +32758,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -31509,7 +33504,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "头部大厂"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -31739,7 +33737,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -31801,7 +33801,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -32526,7 +34529,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "垂直赛道头部"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -32916,7 +34920,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -33311,7 +35317,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -33455,7 +35463,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "教育",
@@ -33865,7 +35875,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "头部大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -34054,7 +36065,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -34075,7 +36089,9 @@
         "秋招提前批"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -34097,7 +36113,9 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
@@ -34323,7 +36341,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "央企",
@@ -34529,7 +36548,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
@@ -34924,7 +36944,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -34987,7 +37008,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -35259,7 +37283,10 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届,2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -35551,7 +37578,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
@@ -35840,7 +37868,10 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "制造业/电子半导体",
@@ -35960,7 +37991,10 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -36379,7 +38413,8 @@
         "春招补录"
       ],
       "tags": [
-        "行业独角兽"
+        "行业独角兽",
+        "hot"
       ],
       "targetCohort": "2026届",
       "companyType": "民营",
@@ -36712,7 +38747,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "物流与供应链",
@@ -37293,7 +39330,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -37395,7 +39434,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -37621,7 +39662,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2024届,2025届,2026届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -38140,7 +40183,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
       "industry": "品牌与消费",
@@ -38264,7 +40309,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -38578,7 +40625,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -38700,7 +40749,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2024届,2025届,2026届",
       "companyType": "外企",
       "industry": "银行与金融",
@@ -40319,7 +42370,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "头部大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -40340,7 +42392,10 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -40522,7 +42577,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "物流与供应链",
@@ -41768,7 +43825,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2026届,2027届,2028届,2029届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -41788,7 +43847,10 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届,2027届,2028届,2029届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -42184,7 +44246,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -42763,7 +44827,9 @@
         "秋招提前批"
       ],
       "tags": [
-        "知名大厂"
+        "知名大厂",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -43158,7 +45224,10 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -43528,7 +45597,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "头部大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -43632,7 +45702,8 @@
         "秋招提前批"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -44359,7 +46430,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -44421,7 +46494,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/智能制造与装备",
@@ -45243,7 +47318,8 @@
         "秋招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "头部大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -45330,7 +47406,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -45476,7 +47554,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "银行与金融",
@@ -45622,7 +47702,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -46456,7 +48537,10 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -46706,7 +48790,9 @@
       "typeTags": [
         "秋招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "外企",
       "industry": "银行与金融",
@@ -46726,7 +48812,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -47702,7 +49790,10 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -47782,7 +49873,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "房地产与建筑",
@@ -47926,7 +50019,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -49207,7 +51302,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -49648,7 +51745,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "央企",
       "industry": "物流与供应链",
@@ -49789,7 +51888,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -50475,7 +52575,8 @@
         "秋招提前批"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -51363,7 +53464,10 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2025届,2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -51485,7 +53589,10 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -51771,7 +53878,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "通信与运营商",
@@ -51791,7 +53900,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届,2028届",
       "companyType": "央企",
       "industry": "银行与金融",
@@ -51980,7 +54091,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -52394,7 +54506,9 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -52703,7 +54817,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "央企",
@@ -53223,7 +55338,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -53243,7 +55360,9 @@
       "typeTags": [
         "春招补录"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -53469,7 +55588,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -53886,7 +56007,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "能源与资源",
@@ -54380,7 +56503,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -55252,7 +57377,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -56002,7 +58129,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "外企",
       "industry": "医药与医疗",
@@ -56641,7 +58770,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -57034,7 +59165,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -57076,7 +59209,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -57160,7 +59295,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -58604,7 +60741,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -58957,7 +61095,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -59389,7 +61529,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "银行与金融",
@@ -60220,7 +62362,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -60483,7 +62626,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2025届,2026届",
       "companyType": "外企",
       "industry": "医药与医疗",
@@ -60523,7 +62668,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -60673,7 +62820,8 @@
         "秋招提前批"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2025届,2026届,2027届",
       "companyType": "民营",
@@ -60694,7 +62842,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "房地产与建筑",
@@ -61008,7 +63158,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -61129,7 +63280,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "物流与供应链",
@@ -61359,7 +63512,10 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "头部大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "咨询与专业服务",
@@ -61401,7 +63557,10 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -61565,7 +63724,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -61607,7 +63768,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "房地产与建筑",
@@ -61727,7 +63890,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -61936,7 +64101,9 @@
         "秋招提前批"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "头部大厂"
       ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
@@ -61957,7 +64124,10 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "咨询与专业服务",
@@ -62523,7 +64693,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -63271,7 +65442,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "房地产与建筑",
@@ -63562,7 +65735,9 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -63708,7 +65883,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "头部大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -63729,7 +65905,10 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -64388,7 +66567,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -65115,7 +67296,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "咨询与专业服务",
@@ -65219,7 +67402,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -65279,7 +67464,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -65443,7 +67630,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "房地产与建筑",
@@ -65605,7 +67794,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -65833,7 +68024,10 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -65853,7 +68047,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "品牌与消费",
@@ -65983,7 +68179,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -66004,7 +68202,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "头部大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -66521,7 +68720,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -67219,7 +69420,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "行业独角兽"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -67434,7 +69636,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -68758,7 +70962,10 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -68945,7 +71152,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
@@ -69006,7 +71214,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -69027,7 +71237,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "央企",
@@ -69177,7 +71388,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -69427,7 +71640,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -69569,7 +71784,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "通信与运营商",
@@ -69589,7 +71806,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "事业单位",
       "industry": "房地产与建筑",
@@ -69694,7 +71913,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "央企",
@@ -69755,7 +71975,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "教育",
@@ -71103,7 +73325,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -71492,7 +73716,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "银行与金融",
@@ -71556,7 +73782,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -72052,7 +74280,8 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2025届,2026届",
       "companyType": "民营",
@@ -72566,7 +74795,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "咨询与专业服务",
@@ -72962,7 +75193,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -73045,7 +75278,8 @@
         "秋招提前批"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -74286,7 +76520,10 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2025届,2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -74511,7 +76748,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "央企",
       "industry": "房地产与建筑",
@@ -75118,7 +77357,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/智能制造与装备",
@@ -75139,7 +77380,9 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2025届,2026届",
       "companyType": "央企",
@@ -76210,7 +78453,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -76670,7 +78915,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -76815,7 +79062,9 @@
         "秋招提前批"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2025届,2026届,2027届",
       "companyType": "民营",
@@ -76878,7 +79127,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2024届,2025届,2026届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -76960,7 +79211,10 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -76981,7 +79235,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -77044,7 +79299,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -77350,7 +79607,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -78483,7 +80742,8 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2026届",
       "companyType": "民营",
@@ -79211,7 +81471,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -79313,7 +81575,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2025届,2026届",
       "companyType": "民营",
       "industry": "品牌与消费",
@@ -79839,7 +82103,9 @@
         "春招",
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "头部大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -79924,7 +82190,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "垂直赛道头部"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -80166,7 +82434,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "央企",
       "industry": "房地产与建筑",
@@ -80457,7 +82727,10 @@
         "春招",
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2025届,2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -80829,7 +83102,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -81405,7 +83680,9 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot",
+        "超级大厂"
       ],
       "targetCohort": "2026届",
       "companyType": "民营",
@@ -81797,7 +84074,8 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2026届",
       "companyType": "民营",
@@ -81927,7 +84205,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -82817,7 +85096,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -82838,7 +85119,8 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2026届",
       "companyType": "央企",
@@ -82860,7 +85142,8 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2024届,2025届,2026届",
       "companyType": "民营",
@@ -83152,7 +85435,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -83172,7 +85457,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -83194,7 +85481,8 @@
       ],
       "tags": [
         "超多hc",
-        "行业独角兽"
+        "行业独角兽",
+        "hot"
       ],
       "targetCohort": "2026届",
       "companyType": "民营",
@@ -83216,7 +85504,8 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2026届",
       "companyType": "事业单位",
@@ -83237,7 +85526,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -83257,7 +85548,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "事业单位",
       "industry": "制造业/汽车与新能源",
@@ -83278,7 +85571,8 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2026届",
       "companyType": "民营",
@@ -83300,7 +85594,8 @@
         "春招"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2026届",
       "companyType": "民营",
@@ -83321,7 +85616,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "制造业/汽车与新能源",
@@ -84021,7 +86318,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2025届,2026届,2027届",
       "companyType": "民营",
       "industry": "能源与资源",
@@ -84145,7 +86444,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "制造业/家电与家居",
@@ -84249,7 +86550,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "制造业/电子半导体",
@@ -84373,7 +86676,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2025届,2026届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -85183,7 +87488,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "银行与金融",
@@ -85676,7 +87983,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "知名大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -85867,7 +88176,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2025届,2026届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -86923,7 +89234,8 @@
         "春招补录"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "垂直赛道头部"
       ],
       "targetCohort": "2026届",
       "companyType": "民营",
@@ -87007,7 +89319,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2026届",
       "companyType": "民营",
@@ -87172,7 +89485,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "央企",
       "industry": "房地产与建筑",
@@ -87252,7 +89567,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "央企",
       "industry": "能源与资源",
@@ -87626,7 +89943,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "高端制造与航空航天",
@@ -87646,7 +89965,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "高端制造与航空航天",
@@ -88602,7 +90923,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "知名大厂"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -89116,7 +91438,10 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -89136,7 +91461,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "民营",
       "industry": "品牌与消费",
@@ -89303,7 +91630,10 @@
         "春招",
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "超级大厂"
+      ],
       "targetCohort": "2026届,2027届",
       "companyType": "民营",
       "industry": "信息技术/游戏与数字内容",
@@ -89946,7 +92276,9 @@
       "typeTags": [
         "秋招提前批"
       ],
-      "tags": [],
+      "tags": [
+        "行业独角兽"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -89967,7 +92299,8 @@
         "实习"
       ],
       "tags": [
-        "超多hc"
+        "超多hc",
+        "hot"
       ],
       "targetCohort": "2027届",
       "companyType": "民营",
@@ -90053,7 +92386,10 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot",
+        "头部大厂"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
@@ -90138,7 +92474,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "医药与医疗",
@@ -90451,7 +92789,9 @@
       "typeTags": [
         "春招"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2026届",
       "companyType": "央企",
       "industry": "制造业/智能制造与装备",
@@ -91796,7 +94136,9 @@
       "typeTags": [
         "实习"
       ],
-      "tags": [],
+      "tags": [
+        "hot"
+      ],
       "targetCohort": "2027届",
       "companyType": "民营",
       "industry": "信息技术/互联网与人工智能",
