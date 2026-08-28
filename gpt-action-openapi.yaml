@@ -4,8 +4,7 @@ info:
   description: 自定义 GPT 读取校园招聘数据的接口（静态 JSON 起步版，字段对应「招聘信息源.csv」）。
   version: 1.0.0
 servers:
-  # 替换成你托管 JSON 的公开 HTTPS 地址，例如 https://你的用户名.github.io/你的仓库
-  - url: https://YOUR-HOST.example.com
+  - url: https://shouna12358-png.github.io/campus-hiring
 paths:
   /campus-hiring.json:
     get:
@@ -44,6 +43,10 @@ paths:
                         updatedAt:
                           type: string
                           example: "2026-08-12"
+                        openAt:
+                          type: string
+                          description: 开招时间，保留源表中的时间文本
+                          example: "2026/8/20 10:04"
                         deadline:
                           type: string
                           description: 截止时间，可能是日期或「招满为止」
@@ -52,6 +55,18 @@ paths:
                           type: string
                           description: 招聘类型：秋招/实习/校招/秋招提前批/社招等
                           example: "秋招"
+                        typeTags:
+                          type: array
+                          description: 招聘类型拆分后的标准标签
+                          items:
+                            type: string
+                          example: ["秋招", "实习"]
+                        tags:
+                          type: array
+                          description: 源表“标签”列拆分后的标签列表
+                          items:
+                            type: string
+                          example: ["hot", "超多hc"]
                         targetCohort:
                           type: string
                           description: 面向人群，如 2027届
@@ -62,11 +77,11 @@ paths:
                           example: "私企"
                         industry:
                           type: string
-                          description: 行业，从招聘岗位字段解析
+                          description: 行业归类
                           example: "消费"
                         positions:
                           type: string
-                          description: 岗位描述（原始文本）
+                          description: 招聘岗位提取
                           example: "货品管理岗,服装设计岗,商品运营岗,储备店长岗"
                         city:
                           type: string
