@@ -1,7 +1,2542 @@
 {
-  "updatedAt": "2026-09-05T20:22:11+08:00",
-  "count": 5318,
+  "updatedAt": "2026-09-06T20:35:19+08:00",
+  "count": 5440,
   "items": [
+    {
+      "id": "ecb45feae655",
+      "company": "BIGO",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "imo海外、IM、产品经理、海外隐私产品经理、语音房产品经理、商业化广告、行业策略产品经理、商业化广告、数据产品经理",
+      "city": "佛山,广州,北京",
+      "announcementUrl": "https://campus.bigo.sg/campus_apply/bigo/1018/#/jobs",
+      "applyUrl": "https://campus.bigo.sg/campus_apply/bigo/1018/#/jobs",
+      "status": "待投递",
+      "openAt": ""
+    },
+    {
+      "id": "b63b3b510b65",
+      "company": "BMC瑞迈特",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "医药与医疗",
+      "positions": "研发类、制造&质量类、海外业务&营销类、职能类",
+      "city": "北京,天津,东莞",
+      "announcementUrl": "https://mp.weixin.qq.com/s/QSm8_46-5D-k_PcqMTlGLQ",
+      "applyUrl": "https://bmc-medical.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "685a7f5aa339",
+      "company": "IntelliPro英特利普集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "咨询与专业服务",
+      "positions": "人力资源顾问",
+      "city": "上海,北京,深圳,香港,杭州,苏州,常州,南京,长沙,西安,成都,武汉,大连",
+      "announcementUrl": "https://mp.weixin.qq.com/s/J1QQaf7LQK3epH9Ka7rhWw",
+      "applyUrl": "https://mp.weixin.qq.com/s/J1QQaf7LQK3epH9Ka7rhWw",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "7cd905948fd4",
+      "company": "SFC烁程国际",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "咨询与专业服务",
+      "positions": "猎头顾问",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Yn8pN0FRP1xnsswskKPqyQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/Yn8pN0FRP1xnsswskKPqyQ",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "93a4a9602ed2",
+      "company": "SHEIN",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "行业独角兽",
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/电商与数字零售",
+      "positions": "信息技术类、商品平台类、服装供应链类、国际物流与仓储类、全球运营类、职能管理类",
+      "city": "广州,上海,南京,深圳,肇庆,佛山,江门",
+      "announcementUrl": "https://mp.weixin.qq.com/s/y4y1_tZVmMR_08gdfhUlGA",
+      "applyUrl": "https://careers.shein.cn/All-Jobs?jobTypeId=CAMPUS",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "b812a3d5dfb1",
+      "company": "万向集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/汽车与新能源",
+      "positions": "技术研发类、质量类、营销供应链类、智能制造类、软件开发IT类、研究交易职能类",
+      "city": "浙江,上海,江苏,湖北,安徽,重庆,河南,广西,泰国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/z9hZDXOBtgxmTpSZeO4tnQ",
+      "applyUrl": "https://campus.51job.com/wxxz2027/about2.html",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "7ef18d0cc2e9",
+      "company": "三井住友银行(中国）",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "前台营业、风险控制、后台运营、职能支持",
+      "city": "上海,广州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/kNU6HtdVLnnFMhLucRMXZg",
+      "applyUrl": "https://smbccn.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "4e7b9118823c",
+      "company": "三诺生物",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "医药与医疗",
+      "positions": "研发技术类、智能制造类、营销运营类",
+      "city": "长沙",
+      "announcementUrl": "https://mp.weixin.qq.com/s/7r2lC7GNkQnsVusWN1Lu_w",
+      "applyUrl": "https://wecruit.hotjob.cn/SU61f12a51bef57c632bf1a7ab/pb/school.html",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "eab08a67f4fd",
+      "company": "上汽集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/汽车与新能源",
+      "positions": "研发、海外、新能源、AI及软件、营销及品牌、规划及项目管理、采购、供应链管理、制造、财务审计及金融、综合管理岗、其他专业技术岗、信息系统",
+      "city": "上海,江苏,广西,湖北,河南,浙江,重庆,安徽,海外",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ubdSPuLZSdnwQqOK_OoZHg",
+      "applyUrl": "https://saic-recruit.saicmotor.com",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "732d11f4d637",
+      "company": "东风汽车股份有限公司",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/汽车与新能源",
+      "positions": "智能网联工程师、整车开发工程师、新能源研发工程师、数字化技术工程师、制造技术工程师、制造装备工程师、安全环保工程师、采购SQA工程师、市场销售经理、市场服务经理、金融销售经理、市场运营与品牌公关专员",
+      "city": "武汉,襄阳,十堰",
+      "announcementUrl": "https://mp.weixin.qq.com/s/LYbQ-p2P0Hkgr7QL-VHhsg",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/gufen/143531?locale=zh-CN#",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "26123afd5f3c",
+      "company": "中交一公局集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "房地产与建筑",
+      "positions": "水利水电类、矿基管道类、智能建造类、电力储能类、新材料类、深地岩土类、生态环保类、数智化类、运营管理类、大土木类、大交通类、房建市政类、工程管理类、财务金融类、安全类、综合管理类、测绘类、思想政治及法",
+      "city": "北京,天津,苏州,杭州,南京,厦门,郑州,武汉,长沙,广州,西安,昆明,成都,重庆,南宁,呼和浩特",
+      "announcementUrl": "https://mp.weixin.qq.com/s/jgx9XoNChVNuOiQcI6Hnjg",
+      "applyUrl": "https://mp.weixin.qq.com/s/jgx9XoNChVNuOiQcI6Hnjg",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "cee923596fc9",
+      "company": "中哲物产集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "物流与供应链",
+      "positions": "研究岗、大宗商品业务岗、后台支持岗",
+      "city": "宁波,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/tYiNFyiSoKnNJPkyAE5Hjg",
+      "applyUrl": "https://mp.weixin.qq.com/s/tYiNFyiSoKnNJPkyAE5Hjg",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "8121e7ccff6c",
+      "company": "中国中车时代新材",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "材料类、机械类、化学类、力学类、信息技术类、财务类",
+      "city": "株洲,北京,德国,越南,无锡,青岛,天津,射阳,鄂尔多斯,百色,松原,襄阳,邢台,宜宾",
+      "announcementUrl": "https://mp.weixin.qq.com/s/yZ5I-fKef520qmeOeB-qvA",
+      "applyUrl": "https://zztrp1.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "13f651178d7a",
+      "company": "中国兵器工业集团第二〇二研究所",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "科学研究和技术服务业",
+      "positions": "详见投递页",
+      "city": "咸阳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/HQ-MWF2mMO-vTrlJWhp1jQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/HQ-MWF2mMO-vTrlJWhp1jQ",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "73fefabf0c03",
+      "company": "中国农业银行",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-10-08",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "总行管理本部、总行直属机构、境内一级分行、综合化经营子公司岗位、具体见官方公告及投递方式链接",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ljxA_x0U4diw1sUv-HTRxg",
+      "applyUrl": "https://career.abchina.com.cn/build/index.html#/99",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "889d0244e09e",
+      "company": "中国工商银行",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-10-08",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "星辰管培生、科技菁英、客户经理、客服经理、服务代表",
+      "city": "京,天津,河北,雄安,山西,内蒙古,辽宁,大连,吉林,黑龙江,上海,江苏,苏州,浙江,宁波,安徽,福建,厦门,江西,山东,青岛,河南,湖北,湖南,海南,广西,广东,广州,深圳,重庆,四川,云南,贵州,陕西,甘肃,青海,宁夏,新疆,西藏",
+      "announcementUrl": "https://mp.weixin.qq.com/s/soYaZRJRiMYi44De05f79g",
+      "applyUrl": "https://job.icbc.com.cn/pc/index.html#/main/school/home/struct",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "e7e652e78125",
+      "company": "中国建设银行",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-10-08",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot",
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "详见投递页",
+      "city": "北京,天津,河北,山西,内蒙古,辽宁,吉林,黑龙江,上海,江苏,浙江,安徽,福建,江西,山东,河南,湖北,湖南,广东,广西,海南,重庆,四川,贵州,云南,西藏,陕西,甘肃,青海,宁夏,新疆,大连,宁波,厦门,青岛,深圳,苏州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/CfuCfWuMDZUC8K9WtC_CVw",
+      "applyUrl": "https://job2.ccb.com/cn/job/plan_index.html?planType=XY",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "eadfb980a1bc",
+      "company": "中国民生银行",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-10-25",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "详见投递页",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/N0ao0YII4qAumYy-Gpq1Qw",
+      "applyUrl": "https://career.cmbc.com.cn/#/app/recruitment/campus",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "b366f62ec31d",
+      "company": "中国煤科杭州研究院",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/化工与新材料",
+      "positions": "详见投递页",
+      "city": "杭州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/bEL5HXfsrmzuEf0iSLHvwQ",
+      "applyUrl": "https://cctegjob.iguopin.com/campus",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "5b94c98f21ca",
+      "company": "中国电子",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "详见投递页",
+      "city": "北京,上海,广州,深圳,南京,武汉,成都,长沙,合肥,贵阳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/WgPrD7qtWJhq5may1Tv8AA",
+      "applyUrl": "https://career.cec.com.cn/index",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "3f6fd4416131",
+      "company": "中国航发东安",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "机械类、航空发动机类、电气控制类、材料类、测控技术与仪器、仪器科学与工程、力学、计算机、给排水工程、环境科学与工程、安全工程、工业工程、财务管理、金融、新闻学、汉语言文学、马克思主义理论、档案管理、市场营销",
+      "city": "哈尔滨",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Ww2wHvcx-AuxCDLrpXUcFw",
+      "applyUrl": "https://mp.weixin.qq.com/s/Ww2wHvcx-AuxCDLrpXUcFw",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "8c71a3e31db0",
+      "company": "中国航发北京航科",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "详见投递页",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/h-0j5Qd-QtSGsJln3Q59AA",
+      "applyUrl": "https://mp.weixin.qq.com/s/h-0j5Qd-QtSGsJln3Q59AA",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "589a0f8b9eb4",
+      "company": "中国航天科工十院",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-12-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "科学研究和技术服务业",
+      "positions": "详见投递页",
+      "city": "贵阳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/2DvXmd-P9gPAdfArLRTDvg",
+      "applyUrl": "https://we.51job.com/xyzlogin?ctmid=277D9583-8FEB-45BC-9886-220D61DBB0FD&ehirejobid=&jumpurl=https%3A%2F%2Fxyz.51job.com%2Fconsumer%2Fpc%2Fresume%2Findex%3Fctmid%3D9509099%26prd%26prp%26cd%26cp%26ruid%26backurl%26auid%26uuid%26partner&partner=pcwslogin51&",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "65de38a51671",
+      "company": "中国航空制造技术研究院",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "科学研究和技术服务业",
+      "positions": "详见投递页",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/6FF8Msyst0MorcaI30BHiQ",
+      "applyUrl": "https://avicmti.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "d9a0893be635",
+      "company": "中国航空研究院/航空工业智航院",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "科学研究和技术服务业",
+      "positions": "详见投递页",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/sf-UdnDP09IBAkfx4sPS3g",
+      "applyUrl": "https://mp.weixin.qq.com/s/sf-UdnDP09IBAkfx4sPS3g",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "91fbfe00ce59",
+      "company": "中国长城",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "详见投递页",
+      "city": "深圳,北京,上海,南京,杭州,武汉,长沙,株洲,成都,太原,天津",
+      "announcementUrl": "https://mp.weixin.qq.com/s/yTSEvOLiK4pysuOCSZqo7A",
+      "applyUrl": "https://career.cec.com.cn/index",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "8714174a0c8e",
+      "company": "中国飞鹤",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/电商与数字零售",
+      "positions": "食品、机械、电气、农业、营养、生物、化学、畜牧、动物科学",
+      "city": "齐齐哈尔,白城市-镇赉县,黑河,武威,吴忠",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Uwpo0_P4q6pYIltpIVPnQQ",
+      "applyUrl": "https://wecruit.hotjob.cn/SU6304eeb40dcad45aa776d597/pb/school.html",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "2d3b7a749516",
+      "company": "中国黄金集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/化工与新材料",
+      "positions": "详见投递页",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/WJIPqYE7NJ0wy9eQXTvYsg",
+      "applyUrl": "https://hjzp.chinagoldgroup.com/recruit#/index",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "004108b289cb",
+      "company": "中广核集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "能源与资源",
+      "positions": "运行类、维修类、工程类、设计研发类、技术支持类、职能类",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ajiOOLgkjzRS3xV1xeUKOQ",
+      "applyUrl": "https://cgn.hotjob.cn",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "2d79ff9e9899",
+      "company": "中建电力",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "房地产与建筑",
+      "positions": "详见投递页",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/naHTsXaHK_5LzDYdfhNmrA",
+      "applyUrl": "https://recruit.cscec.com/recruit#/portal_job_list?job_class=campus&filter_dict=%7B%22_job_class%22:%22campus%22,%22select_depart%22:null%7D&company_id=1873&contract_unit=32043939",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "63475544bb78",
+      "company": "中建科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "hot"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "房地产与建筑",
+      "positions": "工程类、勘察设计类、财务类、法学类",
+      "city": "广州,深圳,珠海,佛山,惠州,东莞,中山,江门,肇庆",
+      "announcementUrl": "https://mp.weixin.qq.com/s/DoSzb6NFTZa57pXOB7QIWg",
+      "applyUrl": "https://mp.weixin.qq.com/s/DoSzb6NFTZa57pXOB7QIWg",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "a65fe59b42cb",
+      "company": "中海达集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "详见投递页",
+      "city": "广州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ujLB95iJvUdDaHPNexmLCQ",
+      "applyUrl": "https://www.zhdgps.com/college#ta1",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "4056965d684a",
+      "company": "中科宇航",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "行业独角兽"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "火箭总体岗、动力设计岗、结构设计岗、航电设计岗、飞控设计岗、软件设计岗、发射支持岗、发动机设计岗、可重复使用运载器总体设计、制导导航与飞行控制、飞行器气动力热仿真、结构设计与力学分析、太空制造与空间应用技术、工艺技术岗、总装集成岗、焊接制造岗",
+      "city": "北京,广州,绍兴,西安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ebglUmRq94K7_qcczLIjIg",
+      "applyUrl": "https://cas-space.zhiye.com/campus",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "dfb736930920",
+      "company": "中船八院",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "科学研究和技术服务业",
+      "positions": "详见投递页",
+      "city": "南京,扬州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/pZ1jBkzkQv_9M6RHvBmdPg",
+      "applyUrl": "https://mp.weixin.qq.com/s/pZ1jBkzkQv_9M6RHvBmdPg",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "a4703f799416",
+      "company": "中船黄埔文冲",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "详见投递页",
+      "city": "广州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/2hFxbev0lbxtVrXdfkiqVg",
+      "applyUrl": "https://mp.weixin.qq.com/s/2hFxbev0lbxtVrXdfkiqVg",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "b9eff3696815",
+      "company": "中铁九局",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "房地产与建筑",
+      "positions": "工程技术岗、安全质量岗、试验检测岗、物资设备岗、商务管理岗、法学管理岗、财务管理岗、党群人力岗、驻外翻译岗",
+      "city": "苏州,佛山,沈阳,成都,大连,雄安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/nUxizbPAPu4_Z65uK6BS8A",
+      "applyUrl": "https://mp.weixin.qq.com/s/nUxizbPAPu4_Z65uK6BS8A",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "c7bf50f357c6",
+      "company": "中铁北京局五公司",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "房地产与建筑",
+      "positions": "工程技术类、物资设备类、财务管理类、综合管理类",
+      "city": "杭州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/4wnldCttW5Vb5GEnQems4A",
+      "applyUrl": "https://mp.weixin.qq.com/s/4wnldCttW5Vb5GEnQems4A",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "086e34667841",
+      "company": "中铁四局",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "房地产与建筑",
+      "positions": "工程技术岗(含商务/安质/物设岗、试验检测岗、交通运输岗、财经管理岗、法律合规岗、综合管理岗、驻外翻译岗",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/lyVyyxvaKeo0ue0prZ-JEQ",
+      "applyUrl": "https://hr.ctce.com.cn/#/webLogin?pkQrCode=31&pkCompany=8100000000000001&companyName=%E4%B8%AD%E9%93%81%E5%9B%9B%E5%B1%80",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "6b5fbf1d6552",
+      "company": "中集来福士集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "研发技术工程师、市场营销专员、供应链管理专员、企业管理专员、生产工程师、质量工程师、调试工程师、项目工程师、安全工程师、工艺工程师、船舶研发工程师、数智化工程师",
+      "city": "烟台,海阳,龙口,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/z8qqUwrZiCn1PpD6LvhMDw",
+      "applyUrl": "https://mp.weixin.qq.com/s/z8qqUwrZiCn1PpD6LvhMDw",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "f3573d171b1c",
+      "company": "乔锋智能",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "技术类、职能类、营运类、营销类",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/PQSda4mYzbACoX74GzUskw",
+      "applyUrl": "https://jirfine.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "675f73cc68d7",
+      "company": "亿纬锂能",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "能源与资源",
+      "positions": "研发技术类、智能制造类、市场营销类、职能运营类、拔尖人才类",
+      "city": "惠州,荆门,武汉,成都,曲靖,沈阳,合肥,宁波,南通,启东",
+      "announcementUrl": "https://mp.weixin.qq.com/s/I56F0OEDBLIukVRck9bscA",
+      "applyUrl": "https://mp.weixin.qq.com/s/I56F0OEDBLIukVRck9bscA",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "bd015efe035d",
+      "company": "伊顿中国",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "电气工程、电力电子、控制、财务、会计、理工类",
+      "city": "深圳,西安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Ga0ixEaSdWam9EczfsyJUQ",
+      "applyUrl": "https://app.mokahr.com/social-recruitment/eaton/166618?locale=zh-CN&sessionid=#/jobs?zhineng%5B0%5D=206492",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "25674d0f090f",
+      "company": "信永中和",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "审计(含国际、金融、H股方向、审计业务中台、税务咨询(含国际方向、会计代理、税务筹划、投融资与财务顾问、并购重组与破产重整、风险管理与合规咨询、财务管理和企业绩效、金融咨询、资产评估、信息系统审计",
+      "city": "北京,上海,深圳,成都,西安,天津,青岛,长沙,长春,大连,广州,银川,济南,昆明,南京,乌鲁木齐",
+      "announcementUrl": "https://mp.weixin.qq.com/s/BIb4Gzkw0_zekSSpJjlyVA",
+      "applyUrl": "http://job.shinewing.com",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "f491a221ef47",
+      "company": "利洋公司",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "农、林、牧、渔业",
+      "positions": "药店业务与技术服务人员、苗场技术人员、海外技术服务及管理人员、研究系统研究人员",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/-wyPFGLjlrI0xARISU0L1A",
+      "applyUrl": "https://mp.weixin.qq.com/s/-wyPFGLjlrI0xARISU0L1A",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "3408e90c2a24",
+      "company": "前海开源基金",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "投资研究类、市场营销类",
+      "city": "深圳,北京,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/R1pG_G3Sg2m0vlfRdP-TFQ",
+      "applyUrl": "https://qhkyfund.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "2307e1239686",
+      "company": "北京农商银行",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-10-15",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "总行分支行管理培训生岗位、金融科技培训生岗位、客户经理培训生岗位、客服经理培训生岗位",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/EzUk2AwvbB4ewl2tg5f6SQ",
+      "applyUrl": "https://campus.51job.com/bjrcb2027/job.html",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "919a5186fef9",
+      "company": "华海通信",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-12-04",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "详见投递页",
+      "city": "天津,北京,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/QxN0jsKJu89YB_5LLGfrWQ",
+      "applyUrl": "https://campus.51job.com/hmntechnologies/job.html",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "b531fb1cc5ff",
+      "company": "华睿科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/智能制造与装备",
+      "positions": "研发设计类、国内技术类、海外技术类、产品与解决方案类、供应链类、操作类",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Accpsw389UuDvCoJf9bwwg",
+      "applyUrl": "https://irayple.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "db0e2cba00e7",
+      "company": "协合运维",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "能源与资源",
+      "positions": "领军人才、人力资源管培生、AI产品研究管培生、安全管理管培生、分布式服务运营管理管培生、运维服务运营管理管培生、营销管培生、财务管培生、电力交易管培生",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ubaRm88e0f61OCdIL1nXxw",
+      "applyUrl": "https://ehr.xh-service.com/RedseaPlatform/zhaopin/zpChannelQrCode/campus_recruit/officeWebsite.mob",
+      "status": "待投递",
+      "openAt": "2026/9/2"
+    },
+    {
+      "id": "a783fa9bf732",
+      "company": "卓望公司",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "人工智能开发、AI应用开发、全栈开发、大数据开发、安全开发、软件测试、安全岗、运维岗、后端开发、前端开发、移动端开发、算法工程师、产品经理、数据分析师、数据库开发、嵌入式开发、网络工程师、技术支持、实施工程师",
+      "city": "北京,广州,深圳,昆明,西安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/YYjJ0bJOIpb7p5RulcPGsQ",
+      "applyUrl": "https://aspire.zhiye.com/Campus/jobs?activityGuid=6da5ef35-ac7d-497a-8dee-4924ab5925ec&ActivityJumpPage=PortalPage",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "2bf81402d447",
+      "company": "南京晨光公司",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "伺服电机设计工程师、机电伺服系统结构器件设计工程师、机械加工装配工艺工程师、复材增材焊接工艺工程师、锻造热处理工艺工程师、测试试验工艺工程师、计量工艺工程师、财务管理师",
+      "city": "南京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/4jeR4DeS-8iC9admy1O-ng",
+      "applyUrl": "https://www.iguopin.com/company?id=10685380815924859",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "eb9bf725e27d",
+      "company": "吉比特&雷霆游戏",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "游戏策划类、研发技术类、美术设计类、产品运营类、市场营销类、游戏客服类、公共职能类",
+      "city": "深圳,厦门",
+      "announcementUrl": "https://mp.weixin.qq.com/s/JCgXvs0TpOR07P_D-DGYXQ",
+      "applyUrl": "https://hr.g-bits.com/web/index.html#/post-web/post-list",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "be82d5f5c2b7",
+      "company": "国家地方共建人形机器人创新中心",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/智能制造与装备",
+      "positions": "算法工程师、软件工程师、硬件工程师、电气工程师、结构工程师、测试工程师、质量工程师、桌面运维工程师、法务专员、财务专员",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/GeEVWUQ5BfTisI6iXYBpWA",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/openloong/164448?locale=zh-CN#/jobs",
+      "status": "待投递",
+      "openAt": "2026/8/31"
+    },
+    {
+      "id": "83657105b64d",
+      "company": "国家能源集团国电电力",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "能源与资源",
+      "positions": "生产、科研、管理等岗位",
+      "city": "北京,天津,承德,廊坊,唐山,大同,鄂尔多斯,锡林郭勒,葫芦岛,吉林,黑龙江,上海,江苏,舟山,湖州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/YZDuvxXg7QO4Dfr7X_o5Aw",
+      "applyUrl": "https://zhaopin.chnenergy.com.cn",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "b97be0f29f8c",
+      "company": "国贸控股集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "运营岗、合规岗、技术研发岗、国内业务岗、人工智能工程师、海外业务岗、财务岗、营销岗、风控岗",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/bdHxsT483bdrooUozcFeTA",
+      "applyUrl": "http://itg.zhiye.com/gmkgxzall",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "b3063fa0109c",
+      "company": "图拉斯",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-12-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/电商与数字零售",
+      "positions": "国内电商运营类、海外电商运营类、设计类、营销类、产品类、传媒艺术类、技术工程类、职能类",
+      "city": "深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/eRrLfOdgUNSIq1wngvP33Q",
+      "applyUrl": "https://lanhevip.jobs.feishu.cn/s/iVcG2KNCOY4",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "bf97f1057492",
+      "company": "大信会计师事务所",
+      "updatedAt": "2026-09-06",
+      "deadline": "2027-01-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "咨询与专业服务",
+      "positions": "审计类、风控审计类、IT、咨询类、数据治理类、职能类",
+      "city": "北京,武汉,山东,上海,深圳,江西,吉林,西南,西北,辽宁,天津,新疆,青海,陕西,西藏,四川,贵州,云南,山西,河北,雄安,河南,安徽,江苏,南京,长沙,浙江,福建,广西,海南,广东,广州,南沙自贸区,香港",
+      "announcementUrl": "https://mp.weixin.qq.com/s/kcFIJSiii2edV_0P7zN9eg",
+      "applyUrl": "https://daxincpa.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "3c04aed14e35",
+      "company": "天准科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "详见投递页",
+      "city": "苏州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/vyYlbV2n1MXCmqWnSHP4gQ",
+      "applyUrl": "https://tztek.gllue.com/portal/campus",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "1d36f37b8f4a",
+      "company": "天地和兴",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "研发工程师、测试工程师、项目交付工程师",
+      "city": "北京,武汉,青岛,西安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/aNutEhXEJp7zA0UwrVQ8HQ",
+      "applyUrl": "https://tdhx.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "e13f7f2cfa1f",
+      "company": "威努特",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "技术管培生(产品经理及研发工程师双方向)：计算机科学与技术、软件工程、信息工程、信息安全",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/wVOvQxjqKeDX6soryt-KQw",
+      "applyUrl": "https://mp.weixin.qq.com/s/wVOvQxjqKeDX6soryt-KQw",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "154632f6a72e",
+      "company": "小黑盒",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "后端开发工程师、全栈开发工程师、客户端开发工程师、运维工程师、AI应用工程师、海外商务运营、游戏项目管理",
+      "city": "北京,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/BPSSdKuF84i4k_U0RHACGw",
+      "applyUrl": "https://job.xiaoheihe.cn/campus",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "597ea70b2aac",
+      "company": "工业和信息化部电子第五研究所",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "科学研究和技术服务业",
+      "positions": "详见投递页",
+      "city": "北京,重庆,长沙,成都,广州,杭州,南京,宁波,苏州,泰州,芜湖,武汉,温州,西安,郑州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/ffsOqpSQBQTyW5ebzro9yw",
+      "applyUrl": "https://mp.weixin.qq.com/s/ffsOqpSQBQTyW5ebzro9yw",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "899c791e7ef7",
+      "company": "年利达律师事务所",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "咨询与专业服务",
+      "positions": "参见公告",
+      "city": "北京,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/SPUXc5wh-ct_vq9JpZJ9BQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/SPUXc5wh-ct_vq9JpZJ9BQ",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "1966fc0e57d5",
+      "company": "广州银行",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-10-28",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "总行管培生、分行管培生、科技培养生、英才生",
+      "city": "广州,深圳,南京,佛山,中山,惠州,江门,肇庆,东莞,珠海,清远,汕头,韶关,湛江,梅州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/G2CRHdnePd81Jk-05OPkbw",
+      "applyUrl": "https://gzcb.hotjob.cn",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "9d888508bd54",
+      "company": "广联达TOT产研序列",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "AI、算法工程师、Agent开发工程师、AI数据开发工程师、产品需求工程师、C++开发工程师、业务测试工程师、测试开发工程师、几何算法工程师、工业软件测试工程师、三维重建算法工程师、仿真算法工程师、三维图形渲染算法工程师",
+      "city": "北京,上海,西安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/I1TsnCqOKQmPtX2bkz0_Sg",
+      "applyUrl": "https://campus.glodon.com/campus-recruitment/glodon/91966/#/page/%E6%8A%95%E9%80%92%E7%AE%80%E5%8E%86",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "a7581d847054",
+      "company": "德兰明海",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "能源与资源",
+      "positions": "研发类岗位、DTC岗位、B2B岗位",
+      "city": "深圳,惠州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/GFi-965Z3heg_w1f5Wo93A",
+      "applyUrl": "https://mp.weixin.qq.com/s/GFi-965Z3heg_w1f5Wo93A",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "c1bc42852675",
+      "company": "思必驰",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "行业独角兽"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "算法类、研发类、综合类",
+      "city": "北京,上海,苏州,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/oI1kGi6-SniQlrbi2EyIHw",
+      "applyUrl": "https://aispeech.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "61b539f38b5a",
+      "company": "思摩尔国际",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "技术研发类、产品/营销类、综合职能类、生产运营类、博士岗位",
+      "city": "深圳,上海,长沙,昆明,江门,海外",
+      "announcementUrl": "https://mp.weixin.qq.com/s/W13ovT-4sGZEemGgV6JJaQ",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/smoore/150918?sourceToken=a72fe4ac9bacdebb5048a99f47c6f32d#/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "429ff305e504",
+      "company": "成都建材院",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "房地产与建筑",
+      "positions": "研发工程师、装备研发及设计、工艺设计、结构设计、电气设计、矿山设计、土建安装岗、供应及供应链工程师、安全工程师",
+      "city": "成都",
+      "announcementUrl": "https://mp.weixin.qq.com/s/9IgMSs7RZrULGPUBIb-6ow",
+      "applyUrl": "https://mp.weixin.qq.com/s/9IgMSs7RZrULGPUBIb-6ow",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "a43177a495b4",
+      "company": "拓斯达科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/智能制造与装备",
+      "positions": "设计类、供应链类、研发类、营销类、职能类",
+      "city": "东莞",
+      "announcementUrl": "https://mp.weixin.qq.com/s/xgfZGj53YpjAPqtnI1_aZQ",
+      "applyUrl": "https://ehr.tsd.ren/campus",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "688ee10ab269",
+      "company": "新大洲本田",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/汽车与新能源",
+      "positions": "研发类、采购/质量/供应链管理类、职能类、营销管理类、生产制造类",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/tbZmCcmQVwAsOz0SvoUqnw",
+      "applyUrl": "https://ocnjqux6l650.feishu.cn/share/base/form/shrcnX56jBuwDSkwCPHcWLuqeCg",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "52c4fdadd758",
+      "company": "旗滨集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "销售研发生产职能",
+      "city": "天津,绍兴,湖州,宁波,嘉兴,株洲,郴州,漳州,河源,深圳,昭通,马来西亚",
+      "announcementUrl": "https://mp.weixin.qq.com/s/zNKxtDa71CXOIiXoVmn-EQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/zNKxtDa71CXOIiXoVmn-EQ",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "e38427a6206a",
+      "company": "日出集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/化工与新材料",
+      "positions": "业务类、生产类、研发类、职能类、语言类",
+      "city": "宁波,台州,杭州,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/CPT04F8GxvrI1IGX19nnqA",
+      "applyUrl": "https://sfcc.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "c5a12e8f9b07",
+      "company": "时代新安（仅测评）",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/汽车与新能源",
+      "positions": "研发类、供应链与运营类、市场类、职能类",
+      "city": "苏州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/OBN29O1iS5AIZnYvTZS0Rg",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/synland/43559#/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "50046a88316e",
+      "company": "旷世芳香控股",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/电商与数字零售",
+      "positions": "制造管培生、供应链管培生、品牌营销管培生、国际业务管培生、人力资源管培生、财务管培生、IT管培生、产品管培生、研发管培生",
+      "city": "宁波,芜湖",
+      "announcementUrl": "https://mp.weixin.qq.com/s/23DdhKa2xquzYhqijR65nA",
+      "applyUrl": "https://mp.weixin.qq.com/s/23DdhKa2xquzYhqijR65nA",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "2c01bcee7afa",
+      "company": "明毅基金",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "投资业务岗、风险管理岗、渠道业务岗、产品运营岗",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/m7KNb8UqYnbrxznuaAi1Dg",
+      "applyUrl": "https://myfund.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "f54128917388",
+      "company": "易买工品",
+      "updatedAt": "2026-09-06",
+      "deadline": "2027-01-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "物流与供应链",
+      "positions": "销售管培生、客服管培生、市场运营管培生、采购管培生、仓库管培生、HR管培生、财务管培生会计、电商产品经理管培生、商品研发管培生硬件、商品研发管培生嵌入式软件、商品研发管培生结构开发、商品研发管培生光学设计",
+      "city": "上海,苏州,合肥,无锡",
+      "announcementUrl": "https://mp.weixin.qq.com/s/0E7-5xtipW75h5RIZ-UG1g",
+      "applyUrl": "https://yesmro101.jobs.feishu.cn/991031/position/list",
+      "status": "待投递",
+      "openAt": ""
+    },
+    {
+      "id": "b40ad2d12ad7",
+      "company": "星德科",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "销售工程师、验证工程师、售后服务机械电气工程师、电气工程师、机械工程师",
+      "city": "杭州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/iZ-ZRf15Hh5VPkP-ZBd-Tg",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/syntegon/42656#/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "083799792498",
+      "company": "杭州银行",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "总行培训生、总行外汇条线培训生、总行金市条线培训生、总行信息技术部培训生人工智能/软件研发/数据研发、分行培训生、营销培训生公司金融方向/小微金融方向零售金融方向、运营培训生综合柜员方向",
+      "city": "杭州,北京,上海,深圳,南京,合肥",
+      "announcementUrl": "https://mp.weixin.qq.com/s/IvnfOwiSOOxLwjXjHmYYHg",
+      "applyUrl": "https://myjob.hzbank.com.cn/hzzp-apply-web/static/index.html#/employ/school",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "12632b10a1c5",
+      "company": "极兔速递",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "物流与供应链",
+      "positions": "物流营运类、小语种类、产品研发类、综合职能类、财务审计类、智能设备技术类",
+      "city": "上海,全球",
+      "announcementUrl": "https://mp.weixin.qq.com/s/1yizU2-36ZWS731BqU8wRw",
+      "applyUrl": "https://jtexpress.jobs.feishu.cn/478610/position/list?spread=RK6HVPP",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "bd563ba93824",
+      "company": "极客未来",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "教育",
+      "positions": "教师类、管培生类",
+      "city": "四川,重庆,广东",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Ffs6ROAy2uoMNFlc5ZjK6w",
+      "applyUrl": "https://geek3.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "110c302116eb",
+      "company": "核桃编程-核子星计划",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "教育",
+      "positions": "产研类、职能类、陷阵营管培生、课导管培生、课程产品设计",
+      "city": "北京,上海,成都,西安,武汉,郑州,济南,南京,长春",
+      "announcementUrl": "https://mp.weixin.qq.com/s/K6-FqUM_4qule9OCq8WcEQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/K6-FqUM_4qule9OCq8WcEQ",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "69fa1550b1b6",
+      "company": "格兰云天",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "品牌与消费",
+      "positions": "管理培训生(房务/餐饮/市场销售方向",
+      "city": "北京,深圳,南昌,赣州,吉安,贵阳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/JrASCAY8-2S3qzasWO2fOA",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/gshm/172184#",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "20888286395e",
+      "company": "武重集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "高级机械工程师、高级增材制造工程师、数字化设计工程师、机械工程师、增材制造工程师、电气工程师、液压工程师",
+      "city": "武汉",
+      "announcementUrl": "https://mp.weixin.qq.com/s/rsZwMiXviOeftJjjOsdhIg",
+      "applyUrl": "https://mp.weixin.qq.com/s/rsZwMiXviOeftJjjOsdhIg",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "e4c3119a9533",
+      "company": "永太科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/化工与新材料",
+      "positions": "研发、质量、安环、工程、生产、职能",
+      "city": "浙江台州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/CBkZF0OCe3fFeDq7w3E0iA",
+      "applyUrl": "http://oa.yongtaitech.com:9080/Main/Job/Index",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "91ec0d45f3d1",
+      "company": "汇丰中国",
+      "updatedAt": "2026-09-06",
+      "deadline": "2026-10-31",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "管理培训生项目",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/GzNEnczw7pKd7nBWEiOupA",
+      "applyUrl": "https://campus.51job.com/hsbc/about1.html",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "33264f8ce513",
+      "company": "江丰电子",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "制造技术工程师、烧结工程师、超声技术工程师、表处工程师、产品工程师、工艺工程师(零部件、焊接工程师、智能制造岗、生产管理岗、智能仓技术岗、产品质量管理、国内营销岗、海外营销岗、客户服务岗、技术支持岗",
+      "city": "宁波,上海,丽水,杭州,北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/E6Oxk5m9G5yea2Wqzv32Pw",
+      "applyUrl": "https://mp.weixin.qq.com/s/E6Oxk5m9G5yea2Wqzv32Pw",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "a3759b0be052",
+      "company": "沈鼓集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "研发设计岗、制造工艺岗、质量控制岗、售后技术支持岗、企业运营岗",
+      "city": "沈阳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/RLRh-5y7v_4JoiPq4Pud2A",
+      "applyUrl": "https://young.yingjiesheng.com/xyzlogin?ctmid=4165a450-51a2-4289-9d6e-5299d2a27d53&ehirejobid=&jumpurl=https%3A%2F%2Fxyz.51job.com%2FExternal%2FOthers%2FLogin51.aspx%3FCtmID%3D4165a450-51a2-4289-9d6e-5299d2a27d53%26prd%3Dyddzy%26prp%3D%26cd%3D%26cp%3D%26r",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "cd341c35680c",
+      "company": "泓德基金",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "银行与金融",
+      "positions": "行业研究员、算法研究员、银行渠道销售、券商渠道销售、运维工程师",
+      "city": "北京,上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/3fAEXEc-we4jsngCXoQb4w",
+      "applyUrl": "https://mp.weixin.qq.com/s/3fAEXEc-we4jsngCXoQb4w",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "bd2cd019171b",
+      "company": "法士特",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/汽车与新能源",
+      "positions": "设计研发类、技术营销类、专业技术类、职能支持类",
+      "city": "西安,宝鸡,咸阳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/dhzTSXWP-PeBe6teCXb5SQ",
+      "applyUrl": "http://fast.zhiye.com",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "f741b4afc68e",
+      "company": "泰晶科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "详见投递页",
+      "city": "上海,北京,深圳,武汉,重庆",
+      "announcementUrl": "https://mp.weixin.qq.com/s/hWUPz4yjDGbguauml4oHpg",
+      "applyUrl": "https://mp.weixin.qq.com/s/hWUPz4yjDGbguauml4oHpg",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "c63f43d06c60",
+      "company": "洋葱学园",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "教育",
+      "positions": "课程类、市场策略类、客户成功类、产品运营类、销售类",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/t9YbjCRVEqAAGYDhKpYXmg",
+      "applyUrl": "https://guanghe.jobs.feishu.cn/ycxz/?keywords=&category=&location=&project=7613704633995266354&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "6deeca509056",
+      "company": "海特克",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "研发技术类、营销业务类、生产管理类、职能管理类",
+      "city": "上海,温州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/pncVSILQEGrlFGEkVT63vQ",
+      "applyUrl": "https://xyz.51job.com/consumer/pc/home/index?ctmid=9545910",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "dc1e4e62471f",
+      "company": "深智城集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "算法工程师、网络架构工程师、硬件工程师、机器人仿真工程师、算网架构工程师、信息安全工程师等岗位",
+      "city": "深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/z11jUey-Si4tLdtMwF7Z7w",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/smartcitysz/95466?locale=zh-CN#/jobs?commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "61c30199b941",
+      "company": "灵猴机器人",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/智能制造与装备",
+      "positions": "管培生类、销售PM类、研发类、应用技术类、平台职能类",
+      "city": "苏州,嘉兴",
+      "announcementUrl": "https://mp.weixin.qq.com/s/eFI1V2n4X_5ub0q-3lGbyw",
+      "applyUrl": "https://linkhou.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "ed1e4b5e4a43",
+      "company": "烽火富华",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "能源与资源",
+      "positions": "产品软件开发、产品硬件开发、产品结构设计、产品测试、技术支持、电气设计、市场销售",
+      "city": "武汉",
+      "announcementUrl": "https://mp.weixin.qq.com/s/-d1H2ln933ntW0zi17PLfQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/-d1H2ln933ntW0zi17PLfQ",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "b4214b7de4fa",
+      "company": "爱立信",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "通信技术与产品研发岗位、网络技术与工程岗位、销售培训生",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/Na_VxpG-xlZojUOVELiLJA",
+      "applyUrl": "https://www.moseeker.com/positions/index/cid/3123386?candidateSource=1&employment_type=0&moseeker_track_code=njj%3D%3D",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "feb98ce07ec4",
+      "company": "特纳飞",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "ASIC设计工程师、SOC验证工程师、IC验证工程师、嵌入式开发工程师、软件测试工程师、自动化开发工程师、SSD系统测试工程师、芯片测试验证工程师、NAND、Flash、工程师、FPGA工程师、硬件设计工程师",
+      "city": "南京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/dUASIHepNotbmzyPa_buvg",
+      "applyUrl": "https://mp.weixin.qq.com/s/dUASIHepNotbmzyPa_buvg",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "982d1409656e",
+      "company": "申能集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "能源与资源",
+      "positions": "生产运行类、储备人才类、技术支持类、产品研发类、运营管理类、职能支持类、营销贸易类、计算机信息类",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/j5Qsm1DCQ_ZgzSZABdmx6g",
+      "applyUrl": "https://shenergy.zhiye.com/custom/campus?hideMenu=1",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "06e7f81375db",
+      "company": "移远通信（仅测评）",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "尖端算法类、研发技术类、技术质量类、产品项目类、市场销售类、运营支持类",
+      "city": "上海,合肥,桂林,武汉,佛山,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/WHV29gtL-BYyjlOt7LHjGA",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/quectel/65934?locale=zh-CN&sessionid=#/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "d0cfefb031f9",
+      "company": "纵维立方",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "机械类、电气与自动化类、电子信息类、高分子材料类、自动控制类、软件类市场营销类",
+      "city": "深圳,惠州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/V8xw-OUhwAmtiDQgTl82WQ",
+      "applyUrl": "https://anycubic.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/1"
+    },
+    {
+      "id": "18316188ac64",
+      "company": "美格智能",
+      "updatedAt": "2026-09-06",
+      "deadline": "2027-06-30",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "销售类、技术支持类、质量类、研发类、管培生",
+      "city": "深圳,上海,西安,南通,海外",
+      "announcementUrl": "https://mp.weixin.qq.com/s/qNsYqkBpoVbIvaY6ebREoQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/qNsYqkBpoVbIvaY6ebREoQ",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "e26bc5db06a3",
+      "company": "美钛中国",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "咨询与专业服务",
+      "positions": "招聘顾问、开发工程师、数据工程师、测试工程师、FA失效分析、EE电子工程师、RE可靠性、运营支持、财务会计、市场营销",
+      "city": "上海,苏州,北京,广州,西安,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/heS4BgB0tjKYIcjUhwEvkw",
+      "applyUrl": "https://mp.weixin.qq.com/s/heS4BgB0tjKYIcjUhwEvkw",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "9bba7100560f",
+      "company": "胜宏科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "工艺技术类、品质管理类、工程设计类、设备维护类、技术研发类、产品管理类、市场销售类、外贸跟单类、品质服务类、供应链管理类、行政人事类",
+      "city": "广东惠州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/fG1Xw66Ehc4vOTfIA41How",
+      "applyUrl": "https://mp.weixin.qq.com/s/fG1Xw66Ehc4vOTfIA41How",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "a2f59ef3a9f4",
+      "company": "航空工业成都所",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "科学研究和技术服务业",
+      "positions": "详见投递页",
+      "city": "成都",
+      "announcementUrl": "https://mp.weixin.qq.com/s/L621a8jSg8sPKtgqAkhZ8Q",
+      "applyUrl": "https://611.zhiye.com/search?r=2&p=&c=5101&d=&k=#jlt",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "27d3be884cac",
+      "company": "航空工业永红",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "设计研发类、工艺开发类、通用技术类",
+      "city": "贵阳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/fuV_c_UxRfwRhC-xaw_5Qw",
+      "applyUrl": "https://mp.weixin.qq.com/s/fuV_c_UxRfwRhC-xaw_5Qw",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "4786da72a8fd",
+      "company": "航空工业津电",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "二次电源设计师、电驱动设计师、硬件设计师、软件设计师",
+      "city": "天津",
+      "announcementUrl": "https://mp.weixin.qq.com/s/cxK4kaf67MAdh2_TsB8j7w",
+      "applyUrl": "https://tjaemc.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "b83e8c1f3ffb",
+      "company": "航空工业设备工程",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "电气设计师、工艺设计师、机械设计师、算法设计师",
+      "city": "北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/UwSC6vToS8q1uQeNqw8DWw",
+      "applyUrl": "https://mp.weixin.qq.com/s/UwSC6vToS8q1uQeNqw8DWw",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "4cdb618c478a",
+      "company": "芯德科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "嵌入式软件开发工程师、硬件开发工程师、外贸销售代表",
+      "city": "广州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/5-9rHlSrvyUbyOhu0SQ-gQ",
+      "applyUrl": "https://mp.weixin.qq.com/s/5-9rHlSrvyUbyOhu0SQ-gQ",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "99573c53cce9",
+      "company": "苏交科集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "房地产与建筑",
+      "positions": "勘察设计、数字化技术开发、检测监测、智能传感设备研发、规划咨询",
+      "city": "南京,广州,深圳,中山,淮安,厦门,昆明,西安,杭州,石家庄,乌鲁木齐",
+      "announcementUrl": "https://mp.weixin.qq.com/s/kyCBaRsefRhXbiAp89RMAA",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/jsti/144121#/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "5b3c2e9dc2b2",
+      "company": "英诺赛科（仅测评）",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "研发技术类、应用工程类、信息技术类、职能支持类、芯片产品类、品质可靠性类、工程技术类",
+      "city": "苏州,珠海,南京,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/yUyJFUKJ43Xn4Ak1S_i5rw",
+      "applyUrl": "https://t.zhaopin.com/07ShP9",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "4a5021638985",
+      "company": "药明生物",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "医药与医疗",
+      "positions": "研发、制药生产、生产科技/技术转移、质量、项目管理、信息科技/数智化、工程/自动化、运营管理、采购/供应链",
+      "city": "上海,无锡,杭州,成都,苏州,石家庄,海外,新加坡",
+      "announcementUrl": "https://mp.weixin.qq.com/s/FFNCDIl2hF5pBzd6gn8k0g",
+      "applyUrl": "https://job.wuxibiologics.com.cn/campus-recruitment/wuxibiologics/99961/#/jobs?2016470=2027&page=1&anchorName=jobsList&keyword=",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "ed8d18f2831f",
+      "company": "裕华木业",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/家电与家居",
+      "positions": "总经理助理、销售管培生、外贸专员、采购专员、合规专员、生产管理、质量管理、生产计划、仓储管理",
+      "city": "嘉兴",
+      "announcementUrl": "https://mp.weixin.qq.com/s/0Jm8iNeGI4cTADmbSRFa0g",
+      "applyUrl": "https://mp.weixin.qq.com/s/0Jm8iNeGI4cTADmbSRFa0g",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "9e190fee21c5",
+      "company": "诺德凯",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "项目经理、售后调试、财务管培生、算法研发、机构研发、光学研发、软件研发、电气设计",
+      "city": "苏州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/olcvIVkdFchf-y1f187s3w",
+      "applyUrl": "https://hrnordkete.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "ccbee74e7173",
+      "company": "进芯科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/电子半导体",
+      "positions": "数字前端工程师、MCU驱动开发工程师、模拟电路工程师、DFT工程师、数字后端工程师",
+      "city": "长沙",
+      "announcementUrl": "https://mp.weixin.qq.com/s/V0YeZCxEhxXaTwE_Eo5fYA",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/hnjxkjgf/168579?locale=zh-CN#/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "89705763f2df",
+      "company": "通合科技",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "能源与资源",
+      "positions": "详见投递页",
+      "city": "石家庄,西安,北京",
+      "announcementUrl": "https://mp.weixin.qq.com/s/n8ZLDZ4zQK7N8JGzd8hU7g",
+      "applyUrl": "https://mp.weixin.qq.com/s/n8ZLDZ4zQK7N8JGzd8hU7g",
+      "status": "待投递",
+      "openAt": "2026/9/1"
+    },
+    {
+      "id": "0a2fe532a0e5",
+      "company": "郑煤机集团",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "研发技术类、智能制造类、计算机IT类、国际市场类",
+      "city": "郑州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/z7uL6UYGHNPFSD1sbczlqw",
+      "applyUrl": "https://zmjrczp.zmj.com/campus-recruitment/zmj/140999/#/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "c6b230a539c3",
+      "company": "金杯电工",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "待分类",
+      "positions": "研发技术岗、工艺技术岗、质量技术岗、机械技术岗、电气技术岗、设备技术岗、生产技术岗、人力资源岗、财务会计岗、数据/系统工程师、营销内勤、招投标岗、统计专员岗、市场营销岗、业务经理、渠道销售、大客户销售",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/5G3JwCoAFrAP8FkPAFAgEw",
+      "applyUrl": "https://jinbei.zhiye.com",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
+    {
+      "id": "a4290057f5b0",
+      "company": "金蝶",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "管培生、产品经理、实施顾问、Agent开发工程师、Harness算法工程师、大模型算法工程师、AI开发工程师、AI产品经理、AI产品体验设计、客户经营、市场推广",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/cVjMTXFVL8vAQm9Mid2x2Q",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/kingdeehr/166565?locale=zh-CN#/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "9a1cebb2eef8",
+      "company": "陕汽控股",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "制造业/汽车与新能源",
+      "positions": "研发设计岗、工程技术岗、国内营销岗",
+      "city": "西安",
+      "announcementUrl": "https://mp.weixin.qq.com/s/2zLppLSQX-BLJIe9b_yXng",
+      "applyUrl": "https://sxqc.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/4"
+    },
+    {
+      "id": "948a3b2a5f43",
+      "company": "青岛双瑞海洋环境工程股份有限公司",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "高端制造与航空航天",
+      "positions": "船舶与海洋工程、轮机",
+      "city": "青岛",
+      "announcementUrl": "https://mp.weixin.qq.com/s/YLjA8J1zpIPBt5kmwvK4WQ",
+      "applyUrl": "https://sunrui.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/2"
+    },
+    {
+      "id": "f6ec0fd8f5f7",
+      "company": "麒麟软件",
+      "updatedAt": "2026-09-06",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "行业独角兽",
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "其他",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "详见投递页",
+      "city": "北京,天津,长沙,上海,武汉,广州,郑州",
+      "announcementUrl": "https://mp.weixin.qq.com/s/zihyZ9SUU_L-kyuUBt1fZw",
+      "applyUrl": "https://kylinos.zhiye.com/campus/jobs",
+      "status": "待投递",
+      "openAt": "2026/9/3"
+    },
     {
       "id": "b9e594b750e7",
       "company": "泰安航天特种车有限公司",
