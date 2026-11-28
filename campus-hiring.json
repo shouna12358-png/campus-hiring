@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-28T10:54:08+08:00",
-  "count": 12793,
+  "updatedAt": "2026-11-28T10:59:13+08:00",
+  "count": 12802,
   "items": [
     {
       "id": "60a3c3efe8d2",
@@ -2783,6 +2783,192 @@
       "applyUrl": "https://mp.weixin.qq.com/s/dtMhfydZRHofAppGLAl10A",
       "status": "待投递",
       "openAt": "2026/11/23"
+    },
+    {
+      "id": "4294423d143c",
+      "company": "江西国际公司(第二次发布)",
+      "updatedAt": "2026-11-26",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "国企",
+      "industry": "待分类",
+      "positions": "详见投递页",
+      "city": "江西",
+      "announcementUrl": "https://mp.weixin.qq.com/s/doy38eFATfz11NoM5hDsDw",
+      "applyUrl": "https://mp.weixin.qq.com/s/doy38eFATfz11NoM5hDsDw",
+      "status": "待投递",
+      "openAt": "2026/11/25"
+    },
+    {
+      "id": "73b80efdeba7",
+      "company": "山东省国有资产投资控股有限公司",
+      "updatedAt": "2026-11-26",
+      "deadline": "2026-12-09",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "国企",
+      "industry": "待分类",
+      "positions": "本次招聘涉及山东省国有资产投资控股有限公司所属10户企业的研发、管理等24个岗位、共计招聘35人。其中、校园招聘23人",
+      "city": "全国",
+      "announcementUrl": "https://sdgt.zkybm.com/index?code=8b594d",
+      "applyUrl": "https://sdgt.zkybm.com/index?code=8b594d",
+      "status": "待投递",
+      "openAt": ""
+    },
+    {
+      "id": "0bf4bf1b5988",
+      "company": "美埃科技",
+      "updatedAt": "2026-11-26",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "外企",
+      "industry": "制造业/智能制造与装备",
+      "positions": "销售管培生：环境工程、化工材料、工艺自动化、市场营销、国贸",
+      "city": "全国",
+      "announcementUrl": "https://mp.weixin.qq.com/s/dswR2jqyMyn5o9CFpCoo4Q",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/mayair/142334#/job/273b77ee-92ce-4e2c-93d2-3c7989ba16fe?from=qrcode",
+      "status": "待投递",
+      "openAt": "2026/11/25"
+    },
+    {
+      "id": "880db67c1d16",
+      "company": "上海星瀚律师事务所×何者科技",
+      "updatedAt": "2026-11-26",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "咨询与专业服务",
+      "positions": "AI、全栈开发工程师：AI、应用开发、Web、全栈开发",
+      "city": "上海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/U-JpPrQNPFaEn60ck5gShw",
+      "applyUrl": "https://mp.weixin.qq.com/s/U-JpPrQNPFaEn60ck5gShw",
+      "status": "待投递",
+      "openAt": "2026/11/25"
+    },
+    {
+      "id": "fe0f1020d6d4",
+      "company": "万兴科技-急招岗位",
+      "updatedAt": "2026-11-26",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "全栈开发工程师",
+      "city": "长沙,深圳",
+      "announcementUrl": "https://mp.weixin.qq.com/s/oFIzDqBbjPPzxvvU5R5rVA",
+      "applyUrl": "https://wondersharecampus.zhiye.com/jobs?activityGuid=46171fb3-fd0f-4f84-ad85-557809ed75f2",
+      "status": "待投递",
+      "openAt": "2026/11/25"
+    },
+    {
+      "id": "9053ee88529f",
+      "company": "沐晨科技-最新岗位",
+      "updatedAt": "2026-11-26",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "文科专项实习生、编导、数据产品与研究实习生、数据研发实习生",
+      "city": "重庆",
+      "announcementUrl": "https://mp.weixin.qq.com/s/wgrpDJsObl_XiOU2CIqvRw",
+      "applyUrl": "https://mp.weixin.qq.com/s/wgrpDJsObl_XiOU2CIqvRw",
+      "status": "待投递",
+      "openAt": "2026/11/25"
+    },
+    {
+      "id": "c10b83437103",
+      "company": "奥特维-热招岗位",
+      "updatedAt": "2026-11-26",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [
+        "超多hc"
+      ],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/智能制造与装备",
+      "positions": "详见投递页",
+      "city": "无锡,苏州,南通",
+      "announcementUrl": "https://mp.weixin.qq.com/s/BatSof7oEoH5gH6hFgCl-A",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/wxautowell/45558#",
+      "status": "待投递",
+      "openAt": "2026/11/25"
+    },
+    {
+      "id": "88d7c94eb47f",
+      "company": "景旺电子-营销/研发专场",
+      "updatedAt": "2026-11-26",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "制造业/电子半导体",
+      "positions": "营销岗",
+      "city": "深圳,珠海",
+      "announcementUrl": "https://mp.weixin.qq.com/s/G2TV9eizuOX_oOXhsKyUzw",
+      "applyUrl": "https://app.mokahr.com/campus-recruitment/jingwang/170520?locale=zh-CN#/jobs",
+      "status": "待投递",
+      "openAt": "2026/11/25"
+    },
+    {
+      "id": "f633fa6c9943",
+      "company": "绿盟科技-剩余岗位",
+      "updatedAt": "2026-11-26",
+      "deadline": "招满为止",
+      "type": "秋招",
+      "typeTags": [
+        "秋招"
+      ],
+      "tags": [],
+      "targetCohort": "2027届",
+      "companyType": "民营",
+      "industry": "信息技术/互联网与人工智能",
+      "positions": "安全研究员、人工智能安全研究员、安全工程师、安全服务工程师、安全测试工程师、安全攻防工程师、安全咨询工程师、市场管培生、技术服务工程师",
+      "city": "广州,北京,杭州,南京,长沙,南昌,上海,济南,合肥,天津,深圳,哈尔滨,昆明,沈阳,石家庄,南宁,长春,西安,成都,郑州,福州,兰州,西宁,海口,太原,呼和浩特",
+      "announcementUrl": "https://mp.weixin.qq.com/s/KlJ4GwMcU3qVLwgHuKDQmg",
+      "applyUrl": "https://app.mokahr.com/campus_apply/nsfocus/29118?sessionid=#",
+      "status": "待投递",
+      "openAt": "2026/11/25"
     },
     {
       "id": "21b9c0bb0a0e",
